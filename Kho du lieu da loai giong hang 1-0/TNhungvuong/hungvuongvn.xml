@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TEI.1 SYSTEM "D:/Arcade2/Affaires/Corpus/dtd/xlite/exteilite.dtd">
+<!--DOCTYPE TEI.2 SYSTEM "dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]-->
+<TEI.1 id="hungvuongvn.xml">
+	<teiHeader date.updated="23 Jan 2016">
+		<fileDesc>
+			<titleStmt>
+				<title>HỒ SƠ QUỐC GIA ĐỆ TRÌNH UNESCO ĐĂNG KÝ VÀO DANH SÁCH DI SẢN VĂN HOÁ PHI VẬT THỂ ĐẠI DIỆN CỦA NHÂN LOẠI TÍN NGƯỠNG THỜ CÚNG HÙNG VƯƠNG Ở PHÚ THỌ</title>
+				<author>Sở văn hóa thể thao và du lịch Phú Thọ</author>
+				<respStmt>
+					<resp></resp>
+					<name>Nguyễn Tiến Hà</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor></distributor>
+				<authority></authority>
+				<date/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="VN">Tiếng Việt</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Du lịch</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+<text>
+<body id="b1">
+<head>HỒ SƠ QUỐC GIA ĐỆ TRÌNH UNESCO ĐĂNG KÝ VÀO DANH SÁCH DI SẢN VĂN HOÁ PHI VẬT THỂ ĐẠI DIỆN CỦA NHÂN LOẠI TÍN NGƯỠNG THỜ CÚNG HÙNG VƯƠNG Ở PHÚ THỌ</head>
+<div id="d1">
+<head>BÁO CÁO TỔNG QUAN VỀ KIỂM KÊ KHOA HỌC TÍN NGƯỠNG THỜ CÚNG HÙNG VƯƠNG Ở PHÚ THỌ</head>
+<p id="d1p1">
+<s id="d1p1s1">Viện Văn hóa Nghệ thuật Việt Nam</s>
+</p>
+<p id="d1p2">
+<s id="d1p2s1">Thời gian thực hiện công tác kiểm kê khoa học</s>
+<s id="d1p2s2">Giai đoạn 1 - từ 25 tháng 8 đến 30 tháng 9 năm 2010</s>
+<s id="d1p2s3">Giai đoạn 2 và 3 - từ 5 tháng 10 năm 2010 đến 30 tháng 2 năm 2011</s>
+</p>
+<p id="d1p3">
+<s id="d1p3s1">Mục đích của đợt kiểm kê khoa học</s>
+<s id="d1p3s2">Khảo sát và đánh giá thực trạng của tín ngưỡng thờ Hùng Vương tại các địa vực cư trú của cộng đồng người Việt trong phạm vi tỉnh Phú Thọ, nơi lưu truyền hình thức thờ phụng Hùng Vương.</s>
+<s id="d1p3s3">Bước đầu, tập hợp một cách có hệ thống những dữ liệu cụ thể do cộng đồng cung cấp, để đánh giá thực trạng hiện tồn của cơ sở vật chất cũng như sinh hoạt văn hóa tín ngưỡng - lễ hội liên quan trực tiếp đến Hùng Vương; từ đó, có kế hoạch tiếp tục triển khai hoạt động sưu tầm, bảo tồn, khai thác giá trị di sản văn hóa tín ngưỡng thờ Hùng Vương (như đã tiến hành ở những cấp độ và mức độ khác nhau từ nhiều năm trước đây).</s>
+<s id="d1p3s4">Thu thập cứ liệu khoa học theo tiêu chí UNESCO đặt ra để phục vụ công tác xây dựng hồ sơ, trình UNESCO công nhận “Tín ngưỡng thờ cúng Hùng Vương” là Di sản văn hóa phi vật thể đại diện của nhân loại.</s>
+</p>
+<p id="d1p4">
+<s id="d1p4s1">Về địa bàn kiểm kê khoa học</s>
+<s id="d1p4s2">Đặc trưng của địa bàn cư trú và hệ thống sinh hoạt tín ngưỡng - lễ hội gắn với nghi lễ thờ phụng Hùng Vương:</s>
+<s id="d1p4s3">Hệ thống các làng/thôn có liên quan đến việc phụng thờ và tham dự lễ hội gắn với tín ngưỡng thờ các nhân vật thời đại Hùng Vương trong quá khứ là rất lớn, trải dài - rộng trên một phạm vi không gian bao trùm gần khắp địa bàn phía đông - bắc và tây - nam của tỉnh Phú Thọ (12/13 huyện, thị, thành phố - 74/275 xã/phường/thị trấn với 109 làng/thôn/khu dân cư); đặc biệt tập trung ở 2 vùng trung tâm là các xã/phường/thị trấn thuộc thành phố Việt Trì và huyện Lâm Thao.</s>
+<s id="d1p4s4">Trong không gian văn hóa tín ngưỡng tại hầu hết các làng thuộc 12 huyện, thị, thành phố của tỉnh Phú Thọ, nhân vật được phụng thờ tại từng di  tích, được phối thờ với các nhân vật khác.</s>
+<s id="d1p4s5">Chúng tôi xác định đối tượng kiểm kê bước đầu chủ yếu dừng lại, đi sâu vào việc thờ phụng Hùng Vương; các nhân  vật khác sẽ được xem xét như cứ liệu tham khảo để nhận diện quy mô trong cùng một không gian tín ngưỡng.</s>
+</p>
+<p id="d1p5">
+<s id="d1p5s1">Việc lựa chọn các làng để tiến hành kiểm kê, tập trung chủ yếu vào một số vấn đề sau</s>
+<s id="d1p5s2">Căn cứ vào các bản Ngọc phả, Thần tích, Sắc phong, một số bản chúc văn hiện đang lưu giữ tại khu vực đền Hùng, các điện thờ tại các xã/ thuộc huyện Lâm Thao, thành phố Việt Trì,… cùng tài liệu Hán Nôm lưu trữ tại Viện nghiên cứu Hán Nôm (Viện Khoa học Xã hội Việt Nam) trong đó có ghi các tước hiệu, mỹ tự của Hùng Vương được các triều đình phong kiến phong tặng (chủ yếu hiện còn từ thế kỷ XV trở về sau), việc xác định các làng/thôn/khu có sinh hoạt tín ngưỡng thờ Hùng Vương được đặt ra theo một số tiêu chí:</s>
+<s id="d1p5s3">Một là, đây trước hết phải là nơi đã và đang hiện tồn di tích thờ phụng  đối tượng được nêu đích danh là Hùng Vương hoặc tên các đời Hùng Vương;</s>
+<s id="d1p5s4">Hai là, tại những nơi thờ phụng HùngVương, nhưng lại được dân gian truyền gọi (theo thói quen ngắn gọn hoặc vì lý do kiêng kỵ,…) bằng các mỹ tự hoặc hiệu danh như: Ất Sơn Thánh Vương, Viễn Sơn Thánh Vương, Đột Ngột Cao Sơn và Cao Sơn Thánh Vương;</s>
+<s id="d1p5s5">Ba là, những nơi thờ phụng đảm bảo một trong hai tiêu chí trên, nhưng chỉ tồn tại trong quá khứ (năm 1945 trở về trước), hiện không còn di tích hoặc đã/đang thành phế tích, vẫn được nêu ra để xem xét, phục vụ việc xác định không gian văn hóa tín ngưỡng thờ Hùng Vương từ trước đến nay.</s>
+<s id="d1p5s6">Những địa phương có di tích tín ngưỡng gắn với các danh xưng khác (Đức  Thánh Sa  Lộc,  Đại Vương Thượng đẳng thần, Hiển Lang Đại Vương, Hiển Công Đại Vương, Đông Hải Đại Vương,...), xét về bản chất, có biểu hiện  của việc thờ cúng Hùng Vương, được xếp vào diện tồn nghi, khảo cứu sau này.</s>
+<s id="d1p5s7">Nhìn chung, các làng/thôn/khu dân cư được kiểm kê lần này đều nằm trong khu vực có điều kiện tự nhiên tương tác giữa vùng bán sơn địa, mật độ các dãy núi thưa dần từ hướng tây - nam (thuộc phạm vi các huyện Yên Lập, Thanh Sơn, Thanh Thủy, Tam Nông,Cẩm Khê) đến hướng đông - bắc (các vùng thuộc huyện Lâm Thao, thành phố Việt Trì, Phù Ninh, Thị xã Phú Thọ, Thanh Ba, Đoan Hùng, Hạ Hòa), để rồi chỉ còn hệ thống đồi núi thấp nhô lên giữa vùng đồng bằng trung du, quanh khu vực Nghĩa Lĩnh.</s>
+<s id="d1p5s8">Nhìn về lịch sử cội nguồn, cách ngày nay nhiều nghìn năm, nơi đây đã trở thành một vị trí đặc biệt, có vị thế trung tâm cả về chặng đường khởi nghiệp của cộng đồng dân cư, lẫn địa bàn lịch sử xã hội - văn hóa, hình thành nên trung tâm của nhà nước Văn Lang do Hùng Vương lập nên.</s>
+<s id="d1p5s9">Điều dễ nhận diện qua thực địa là, hướng liên kết theo mạch kiến tạo của đồi núi từ tây - bắc đến đông - nam trên mặt bằng bán sơn địa này cũng chính là hướng vận động của 3 dòng chủ lưu lớn: sông Thao, sông Lô, sông Đà, góp phần hợp lực tạo ra những dải đất ven màu mỡ, thành nơi tụ cư và lập cư cho cộng đồng cư dân bản địa, đồng thời cũng dồn tạo ra/hình thành nên vùng đồng bằng châu thổ phía hạ nguồn.</s>
+<s id="d1p5s10">Chính vì vậy, mọi hoạt động sinh tồn của cư dân trong phạm vi không gian địa lý này về căn bản, qua thời gian vẫn chỉ là nông nghiệp lúa nước, chăn nuôi và trồng trọt.</s>
+<s id="d1p5s11">Các cứ liệu khảo cổ học trong vòng trên dưới nửa thể kỷ qua đã cho thấy, trong phạm vi không gian địa lý này, hiện tồn những di chỉ cư trú, di chỉ công xưởng, di chỉ mộ táng,… của các nền văn hóa khảo cổ học: Phùng Nguyên - Đồng Đậu - Gò Mun - Đông Sơn.</s>
+<s id="d1p5s12">Nhìn từ góc độ địa - văn hóa, dân cư của các tộc người Việt - Mường có nguồn gốc hình thành từ lâu đời.</s>
+<s id="d1p5s13">Tín ngưỡng của cộng đồng này là tín ngưỡng đa thần, trong đó tín ngưỡng thờ thần núi, thờ tổ tiên, thờ thành hoàng và Phật giáo rất đậm nét.</s>
+<s id="d1p5s14">Nhìn về nguồn gốc lịch sử, vùng đất này nằm trong địa bàn quần cư và giao thoa văn hóa Văn Lang - Âu Lạc cửa ngõ giao lưu giữa vùng đồng bằng với các vùng văn hóa Tây Bắc và một phần Việt Bắc.</s>
+<s id="d1p5s15">Các thế hệ dân cư có quan hệ gắn bó mật thiết với nhau về lịch sử, chính trị, kinh tế - văn hoá - xã hội.</s>
+<s id="d1p5s16">Do vùng đất này trải qua quá trình hình thành lâu dài và lưu giữ nhiều sự kiện lịch sử quan trọng gắn với nhiều nghìn năm cư trú, dựng nước và giữ nước của người Việt cổ, bên cạnh các tộc người khác.</s>
+</p>
+<p id="d1p6">
+<s id="d1p6s1">Phương pháp thực hiện</s>
+<s id="d1p6s2">Phương pháp được sử dụng để thu thập thông tin gồm phỏng vấn bảng hỏi, phỏng vấn sâu, ghi chép thông qua thảo luận nhóm, hồi cố lịch sử, thống kê và theo quan điểm tôn trọng tiếng nói của cộng đồng trong việc đồng thuận với nội dung giới thiệu về di sản văn hóa do chính cộng đồng sáng tạo và bảo tồn trong lịch sử.</s>
+<s id="d1p6s3">Kết hợp sử dụng phương pháp nghiên cứu liên ngành (thư tịch học, khảo cổ học, văn bản học, bảo tàng học,…) trong việc phân tích, đối chiếu, so sánh  các nguồn tư liệu để xác định đối tượng khảo sát, kiểm kê.</s>
+</p>
+<p id="d1p7">
+<s id="d1p7s1">Một số khó khăn</s>
+<s id="d1p7s2">Trên bước đường phát triển của lịch sử xã hội và những biến đổi của cơ tầng địa lí tự nhiên, của nhiều giai đoạn tổ chức hành chính khác nhau, nhiều địa danh đã bị biến đổi, nhiều địa danh cũ đã bị thay thế bằng thứ ngôn ngữ hiện đại, người am hiểu không còn, thế hệ trẻ không được tiếp nhận một cách hệ thống và bền vững từ những hình thức trao truyền bằng văn bản học, nhiều cương vực hành chính đã biến cải, thay đổi hoặc mở rộng (cả về địa vực cư trú lẫn tên gọi hành chính), nhiều tập tục sinh hoạt tín ngưỡng và thực hành lễ hội bị mai một so với thời kỳ cách đây vài chục năm (đặc biệt là so với năm 1945 trở về trước), bên cạnh sự lấn át của văn hóa đương đại đối với văn hóa cổ truyền.</s>
+<s id="d1p7s3">Sự tiếp nối sinh hoạt văn hóa truyền thống giữa các thế hệ bị ngắt quãng do chiến tranh và điều kiện lịch sử - xã hội.</s>
+<s id="d1p7s4">Trong quá trình tiến hành điều tra trực tiếp tại các địa phương, chúng tôi nhận thấy, rất nhiều di tích gắn với tín ngưỡng phụng thờ Hùng Vương (đình, đền, chùa, miếu) đã bị phá hủy hoặc đang xuống cấp nghiêm trọng.</s>
+<s id="d1p7s5">Không ít các di tích thờ tự được người dân khi phục dựng đã chuyển sang tại vị trí hoàn toàn mới, hiện đại hóa trong kiến trúc và do vậy, không còn/không có sức hút về mặt tâm linh với cộng đồng.</s>
+<s id="d1p7s6">Tại hầu khắp các địa phương được kiểm kê, đội ngũ cán bộ quản lý văn hóa và cán bộ lãnh đạo cấp xã hầu hết đều trẻ tuổi, năng lực hiểu biết về văn hóa truyền thống còn hạn chế hoặc yếu kém, không đáp ứng được nhu cầu quản lý văn hóa và giúp cộng đồng sưu tầm, nghiên cứu, bảo tồn di sản của địa phương.</s>
+<s id="d1p7s7">Chính vì vậy, nhiều di tích có giá trị bị hủy hoại, xuống cấp của các làng/thôn/khu chưa được quan tâm để lập kế hoạch phục hồi (thông qua hình thức xã hội hóa) hoặc đề đạt các cấp có thẩm quyền thẩm định, cấp kinh phí phục dựng, sửa chữa, tôn tạo…</s>
+<s id="d1p7s8">Trong khoảng chục năm trở lại đây (từ 1996), hầu hết các địa bàn dân cư nguyên là thôn, xóm, trại hoặc làng đã được chuyển đổi/phân chia thành các khu dân cư, đánh số từ thấp đến cao (khu 1, khu 2, khu 3,…).</s>
+<s id="d1p7s9">Thực tế đó vô hình dung đã xóa dần một cách tự nhiên tên gọi truyền thống của hàng loạt xóm, làng, những tự danh vốn đã đi theo cộng đồng dân cư hàng nghìn năm, ăn sâu vào tiềm thức văn hóa con người, gắn với đặc điểm, ngọn nguồn xuất xứ lập xóm, lập làng cùng hàng loạt các giá trị văn hóa truyền thống khác.</s>
+<s id="d1p7s10">Cạnh đó, có những làng/thôn, do diện tích cư trú rộng, dân cư đông, đã được chính quyền chia thành nhiều khu dân cư.</s>
+<s id="d1p7s11">Và như vậy, gần như chỉ có khu dân cư trực tiếp hiện tồn di tích tín ngưỡng là quan tâm, hiểu biết (ở những mức độ khác nhau) về đối tượng thờ phụng ở địa phương mình.</s>
+<s id="d1p7s12">Các khu dân cư khác lâm vào tình trạng tâm lý bị xa rời di tích tín ngưỡng, ý thức cùng trách nhiệm dần phai nhạt, mang tính khách thể hóa.</s>
+<s id="d1p7s13">Thực trạng cho thấy, nhiều di tích tín ngưỡng gắn trực tiếp đến việc thờ phụng Hùng Vương ở khá nhiều làng quê đã bị phá hủy (do nhiều nguyên nhân khác nhau) từ hàng chục năm về trước.</s>
+<s id="d1p7s14">Không gian thờ tự và sinh hoạt tín ngưỡng ở một số làng/thôn bị chính quyền cấp xã hoặc tư nhân sử dụng, chiếm dụng.</s>
+<s id="d1p7s15">Do vậy, việc hồi cố, phục dựng diện mạo sinh hoạt tín ngưỡng xa xưa ở nhiều thôn/làng là bất khả hoặc mờ nhạt.</s>
+<s id="d1p7s16">Điều đó gây ra những tổn thất văn hóa khó bù đắp nổi.</s>
+<s id="d1p7s17">Tín ngưỡng thờ Hùng Vương vốn là một hiện trạng sinh hoạt văn hóa xuất phát từ một thời đại được truyền lưu bằng huyền thoại.</s>
+<s id="d1p7s18">Mọi nhân vật liên quan đến thời đại cổ xưa này, khi được dân gian tôn sùng, đưa nhập vào tín ngưỡng thờ phụng, trải hàng nghìn năm, đã được nhào nặn, tiếp biến qua nhiều lớp văn hóa tín ngưỡng phong tục, tập quán làng quê.</s>
+<s id="d1p7s19">Chính vì vậy, khi cùng hiện tồn trong một không gian phối thờ, tên gọi của chủ điện thờ nhiều khi rất khó nhận diện.</s>
+<s id="d1p7s20">Sự mờ ảo, biến hóa (do tục hèm, do quan niệm hoặc nhận biết) cũng như chuyển hóa giữa các vai được thờ tự (giữa Hùng Vương và các nhân vật thuộc/liên quan đến thời đại Hùng Vương) trên thực tế ở khá nhiều làng hiện tại rất khó phân tách.</s>
+<s id="d1p7s21">Do thời gian thực hiện việc kiểm kê - điều tra eo hẹp và số cán bộ chuyên môn thực hiện có hạn nên việc tập hợp và khai thác tư liệu cùng cộng đồng còn hạn chế… Điều này phần nào ảnh hưởng tới kết quả kiểm kê, nghiên cứu, đặc biệt là việc thẩm định những biểu hiện của đặc trưng di sản và hệ thống ngôn ngữ cổ, gắn với sinh hoạt lễ hội truyền thống nói riêng và sinh hoạt văn hóa  cộng đồng làng xã nói chung.</s>
+</p>
+<p id="d1p8">
+<s id="d1p8s1">Một số thuận lợi</s>
+<s id="d1p8s2">Trong thời gian tiến hành kiểm kê của nhóm nghiên cứu, chính quyền và đội ngũ làm công tác quản lý văn hoá xã, huyện và đội ngũ các trưởng thôn đã thường xuyên trực tiếp và quan tâm chỉ đạo, giúp đỡ cụ thể, tạo điều kiện thuận lợi để đáp ứng mọi yêu cầu đặt ra của công việc kiểm kê.</s>
+<s id="d1p8s3">Đặc biệt, các trưởng thôn, các bí thư chi bộ, cán bộ văn hóa thuộc các thôn/khu tại hầu hết các huyện đã trực tiếp tham gia tổ chức nhóm thảo luận tại địa phương, tham gia chủ động giải quyết mọi vấn đề nảy sinh trong quá trình thảo luận nhóm đại diện cộng đồng, nhằm cung cấp thông tin cho việc điều tra - kiểm kê.</s>
+<s id="d1p8s4">Tất cả những người dân (đặc biệt là các bậc cao niên, các thành viên trong các ban khánh tiết) trực tiếp hoặc gián tiếp tham gia vào công việc cung cấp thông tin tại đa số các thôn đều nhiệt tình, có quan điểm đồng thuận với nhu cầu bảo tồn, khai thác và trao truyền di sản sinh hoạt tín ngưỡng và lễ hội liên quan đến Hùng Vương tại địa phương.</s>
+<s id="d1p8s5">Nhiều bậc cao niên đã cung cấp những tư liệu quý do cá nhân tự sưu tầm, biên soạn hoặc biên dịch, làm tài liệu tham khảo tốt cho quá trình trả lời phiếu điều tra.</s>
+<s id="d1p8s6">Sự giúp đỡ tận tình, chu đáo của các vị trong các ban quản lý di tích, hội người cao tuổi tại các thôn về công tác tổ chức, tham gia điều hành thảo luận nhóm đạt yêu cầu chất lượng đề ra của nhóm nghiên cứu.</s>
+</p>
+<p id="d1p9">
+<s id="d1p9s1">Kết quả điều tra - kiểm kê</s>
+<s id="d1p9s2">Dựa vào những thuận lợi và khắc phục những khó khăn trên, nhóm nghiên cứu đã thu được những kết quả nhất định.</s>
+<s id="d1p9s3">Nguồn tài liệu và thông tin do nhóm đại diện cộng đồng cung cấp, thông qua phiếu điều tra đã được tập hợp, cho phép khẳng định: Đây là nguồn tư liệu tương đối phong phú, có nhiều thông tin mới, có hệ thống về sinh hoạt tín ngưỡng và thực hành lễ hội gắn với Hùng Vương trong lịch sử và đương đại.</s>
+<s id="d1p9s4">Bước đầu có sự nhận diện cụ thể về các di tích lịch sử - văn hóa tại 12 huyện, thị xã, thành phố (Cẩm Khê, Đoan Hùng, Hạ Hòa, Lâm Thao, Phù Ninh, Tam Nông, Thanh Ba, Thanh Sơn, Thanh Thủy, Yên Lập, Thị xã Phú Thọ và Thành phố Việt Trì) với 122 làng/thôn/khu dân cư, nhóm kiểm kê thống kê bước đầu, nhận thấy trong đó có 46 làng/thôn (tại 29 xã/phường/thị trấn) có liên quan trực tiếp đến sinh hoạt văn hóa lễ hội của địa phương gắn với sinh hoạt văn hóa tín ngưỡng thờ Hùng Vương và tên gọi điện thờ (theo người dân) đích danh là nơi thờ tự Hùng Vương, hoặc tên của một trong số 18 đời Hùng Vương.</s>
+<s id="d1p9s5">Số lượng các làng/thôn hiện tồn sự gắn kết với các nghi lễ thờ phụng Hùng Vương, nội dung thực hành nghi lễ và sinh hoạt văn hóa trong các ngày hội, tập trung đông trên địa bàn huyện Lâm Thao và thành phố Việt Trì.</s>
+<s id="d1p9s6">Sự hiện tồn của một số lễ hội gắn trực tiếp đến tín ngưỡng thờ phụng Hùng Vương tại một số làng/thôn của huyện Cẩm Khê (làng Khổng Tước), Lâm Thao (hai thôn Trẹo, Vi), Việt Trì (làng Hùng Lô) kèm theo các vết tích vật chất cụ thể (ao đầm, thao trường luyện quân của Hùng Vương , nơi vua dừng ngựa thăm dân, nơi vua  cùng dân đón xuân vui Tết, nơi vua dạy dân trồng lúa,…) cùng hàng loạt những địa danh cổ, đã chứa đựng trong đó những thông tin quan trọng, góp phần  nghiên cứu văn hóa và tín ngưỡng phong tục của người Việt - Mường cổ.</s>
+<s id="d1p9s7">Song hành với các di tích tín ngưỡng trên, hiện có 139 di tích tại 52 xã (76 làng/thôn/khu) của 12 huyện đã và đang hiện tồn các cơ sở thờ tự mang các danh xưng như Cao Sơn Thánh Vương, Đột Ngột Cao Sơn, Ất Sơn Thánh Vương, Viễn Sơn Thánh Vương.</s>
+</p>
+<p id="d1p10">
+<s id="d1p10s1">Một số kết quả cụ thể rút ra từ cuộc điều tra - kiểm kê</s>
+<s id="d1p10s2">Các tư liệu thu thập được từ cuộc điều tra bao gồm nhiều nội dung, có thể chia thành 2 mảng chính: tư liệu định lượng (chủ yếu sử dụng phương pháp định lượng như phỏng vấn bảng hỏi, thống kê… để thu thập tư liệu) và tư liệu định tính (được thu thập bởi các phương pháp hồi cố, dân tộc học,...).</s>
+<s id="d1p10s3">Các thông tin này phản ánh về: a/ Những hoạt động sinh hoạt văn hóa tín ngưỡng và lễ hội gắn với Hùng Vương, diễn ra trong quá khứ; b/ Các hoạt động sinh hoạt văn hóa tín ngưỡng và lễ hội gắn với Hùng Vương trong hoàn cảnh đương đại; c/Những đặc điểm cơ bản của sinh hoạt tín ngưỡng thờ phụng Hùng Vương; d/ Thực trạng văn hóa vật thể gắn với sinh hoạt tín ngưỡng và thực hành lễ hội; và, e/ Những vấn đề đặt ra trong quá trình tổ chức bảo tồn, khai thác giá trị văn hóa của sinh hoạt tín ngưỡng và lễ hội liên quan đến các Hùng Vương nói riêng và các nhân vật thời đại Hùng Vương nói chung.</s>
+</p>
+<p id="d1p11">
+<s id="d1p11s1">MNhững hoạt động sinh hoạt văn hóa tín gưỡng, lễ hội diễn ra  trong quá khứ</s>
+<s id="d1p11s2">Về sinh hoạt văn hóa tín ngưỡng</s>
+<s id="d1p11s3">Nhìn về khởi thủy, cơ sở vật chất phục vụ cho sinh hoạt văn hóa tín ngưỡng ở tất cả các làng/thôn vốn đã được cộng đồng tạo lập từ nhiều trăm năm, dưới các hình thức kiến trúc đình, đền, chùa, miếu, trong đó số lượng đình chiếm trên 90%.</s>
+<s id="d1p11s4">Nhìn vào bản thống kê di tích thờ tự, có thể nhận biết thực tế phân bổ, tạo lập cơ sở vật chất phục vụ sinh hoạt tín ngưỡng thờ Hùng Vương của cộng đồng ở tỉnh Phú Thọ có số lượng lớn.</s>
+<s id="d1p11s5">Tại 46 làng/thôn có nơi thờ tự mang đích danh/tên gọi Hùng Vương đã và đang hiện tồn 43 đình, 6 đền và 2 chùa.</s>
+<s id="d1p11s6">Tại 76 làng/thôn có nơi thờ tự gắn với các tên gọi nhân vật thờ phụng Cao Sơn Minh Vương, Đột Ngột Cao Sơn, Ất Sơn Thánh Vương, Viễn Sơn Thánh Vương, đã và đang hiện tồn 99 đình, 15 đền, 7 miếu, 11 nghè, 7 chùa.</s>
+<s id="d1p11s7">Theo tư liệu hồi cố từ các bậc cao niên tại hầu hết các làng/thôn, từ năm 1945 trở về trước, cơ sở vật chất phục vụ cho việc thờ phụng Hùng Vương nói riêng, các nhân vật được thờ phụng khác nói chung trên đất Phú Thọ, đã được tạo dựng qua 2 giai đoạn.</s>
+<s id="d1p11s8">Từ thế kỷ X trở về trước, hầu hết các nơi thờ tự (đình, đền, miếu) gần như được tạo lập bằng tranh tre, nứa lá, một số nơi xây dựng bằng nhà sàn để tránh thú dữ và mưa lũ.</s>
+<s id="d1p11s9">Kể từ triều Lý trở đi, nhất là dưới triều đại nhà Lê (thế kỷ XV), dưới sự cho phép của chính quyền hàng tổng và triều đình, cộng đồng người dân Phú Thọ đã (cũng như hầu khắp các địa phương khác trên cả nước) huy động cộng đồng xây dựng nơi thờ tự (cả về mặt khuôn dạng kiến trúc lẫn bài trí nội thất) ở các làng một cách hoành tráng, bề thế, đi kèm với nó là các lễ hội náo nhiệt, trang trọng, linh thiêng.</s>
+<s id="d1p11s10">Bên cạnh việc quan tâm đến các di tích thông qua các sắc phong, chiếu dụ, nhà nước phong kiến còn chủ trương cho phép các làng quê đầu tư trùng tu, tu sửa hoặc tôn tạo các cơ sở vật chất phục vụ tín ngưỡng tâm linh và coi đó như một thứ công cụ vô hình, góp phần hỗ trợ cho thiết chế và bộ máy cai trị của chính quyền các cấp.</s>
+<s id="d1p11s11">Từ sau Cách mạng thánh Tám 1945, do hạn chế về nhận thức của một số cấp chính quyền, cùng với sự tác động của thời gian, khí hậu tự nhiên, hầu hết (khoảng 90%) các di tích thờ tự (đình, đền, chùa,…) của tỉnh Phú Thọ bị hủy hoại hoặc trở thành phế tích.</s>
+<s id="d1p11s12">Thời gian các di tích bị phá hủy nặng nhất là vào các năm 1956-1957, 1961 và 1975.</s>
+<s id="d1p11s13">Phải đến đầu những năm 90 của thế kỷ XX trở lại đây, nhiều địa phương mới có điều kiện về mặt pháp lý và cơ sở vật chất để phục dựng, tôn tạo, tu sửa và khôi phục các cơ sở thờ tự, phục vụ cho nhu cầu sinh hoạt văn hóa tín ngưỡng ở từng địa phương.</s>
+<s id="d1p11s14">Do hoàn cảnh và  điều kiện kinh tế, phần lớn các di tích được phục dựng đều có quy mô nhỏ hơn và sơ sài trong kiến trúc.</s>
+<s id="d1p11s15">Tuy nhiên, trong số các địa phương vốn có các di tích tín ngưỡng thờ Hùng Vương, vẫn còn khoảng 20% di tích tại các làng/thôn hoàn toàn bị xóa sổ (phế tích), với nhiều lý do/nguyên nhân chủ quan và khách quan khác nhau.</s>
+<s id="d1p11s16">Có thể nói, từ thời điểm Việt Nam bước vào giai đoạn “đổi mới”, cộng đồng các làng quê mới có điều kiện phục hưng kinh tế, văn hóa lên tầm cao - rộng mới, trong đó có sự khôi phục, phục dựng những nét sinh hoạt văn hóa truyền thống có giá trị của dân tộc.</s>
+<s id="d1p11s17">Nhận diện thực trạng hiện tồn của các di tích cũng như tiếp nhận ý kiến cộng đồng, đa số các làng quê vốn có di tích và sinh hoạt tín ngưỡng thờ Hùng Vương nói riêng, sinh hoạt văn hóa tín ngưỡng nói chung, đều có nhu cầu được hỗ trợ về mặt chủ trương và kinh phí để khôi phục, phục dựng hoặc tôn tạo, nâng cấp các khu thờ tự, đảm bảo đáp ứng  một cách tích cực nhất nhu cầu sinh hoạt văn hóa cộng đồng hiện tại và lâu dài.</s>
+</p>
+<p id="d1p12">
+<s id="d1p12s1">Về các ban thờ</s>
+<s id="d1p12s2">Trên thực địa, có thể nhận thấy, trong số 181 đình, 15 đền (trong đó có 43 đình, 8 đền được người dân gọi đích danh là nơi thờ tự Hùng Vương), cách bài trí điện/ban thờ Hùng Vương cùng những nhân vật được phối thờ chủ yếu tập trung vào các ngai bài vị chủ điện thờ kèm bát nhang.</s>
+<s id="d1p12s3">Một số điện thờ có thêm ban thờ công đồng.</s>
+<s id="d1p12s4">Nhìn chung, các điện/ban thờ Hùng Vương đều được tạo lập theo khuôn mẫu của ban thờ tổ tiên tại hầu khắp các gia đình trong cộng đồng người Việt.</s>
+<s id="d1p12s5">Nếu lấy núi Nghĩa Lĩnh làm trung tâm của tín ngưỡng thờ Hùng Vương, thì các di tích thờ tự càng giãn cách về không gian, càng thể hiện sự bài trí điện /ban thờ một cách giản đơn, không cầu kỳ như các lớp lang thờ tự trong các điện thờ do chính quyền phong kiến xác lập từ cuối đời Hậu Lê đến các triều vua nhà Nguyễn sau này.</s>
+</p>
+<p id="d1p13">
+<s id="d1p13s1">Về lễ vật dâng cúng, thờ tự</s>
+<s id="d1p13s2">Lễ vật chuẩn bị cho các buổi lễ (từ lễ mở cửa đình/đền đến lễ rước, lễ đóng cửa đình/đền) ở hầu khắp các địa phương gần như giống nhau: Bao gồm xôi/ oản, hoa quả, rượu, vàng hương, gạo, muối, gà luộc (bắt buộc phải là gà trống thiến, to, đẹp mã), thịt lợn sống (bắt buộc phải là lợn đen), bánh chưng và bánh dày (hai loại bánh này chủ yếu được người dân các làng thuộc Lâm Thao và thành phố Việt Trì dâng cúng).</s>
+<s id="d1p13s3">Ngoài ra, một số làng còn cúng cá chép (làng Đào Xá thuộc Thanh Thủy, làng Bến Đá thuộc Cẩm Khê).</s>
+<s id="d1p13s4">Riêng các làng Trẹo, Vi (Lâm Thao), Hùng Lô (Việt Trì), khi cúng lợn (bắt buộc phải là lợn đen), thường đặt cả con đã mổ sạch, kèm theo một nhúm lông cạo từ thân lợn và một bát/hoặc tất cả số tiết lợn cắt được.</s>
+<s id="d1p13s5">Một số làng/thôn của các huyện Hạ Hòa, Đoan Hùng, Yên Lập lại quy định đồ dâng lễ phải có thịt trâu đen.</s>
+<s id="d1p13s6">Điều đặc biệt, trong lệ làng của các làng/thôn khi chuẩn bị lễ vật là, tất cả những người được phân công chuẩn bị lễ vật, đều phải lựa chọn cẩn trọng, từ chọn gà, chọn lợn, chọn gạo, chọn lá gói bánh,… cho đến việc cẩn trọng ngay cả từ lúc gói bánh, mổ gà, chọc tiết lợn.</s>
+<s id="d1p13s7">Đối với, đồ thờ cúng làm từ động vật (lợn đen, gà, trâu,…), hầu hết các làng đều có cách thức quy định chặt chẽ về các  mặt: Chọn gia đình được nuôi vật thờ (là gia đình sống hòa thuận, làm ăn tốt, kinh tế vững, được dân làng quý mến, trong năm không có tang,…); vị trí nuôi phải cao ráo, sạch sẽ; đồ đựng thức ăn phải mới (mua bát mới, chậu mới, làm chuồng trại mới); thức ăn cho vật nuôi phải ngon, sạch.</s>
+<s id="d1p13s8">Một số làng còn cầu kỳ khi chọn hai hoặc ba gia đình cùng nuôi một loại vật, gần kỳ lễ hội, cả làng xem xét lựa chọn, chấm con vật đẹp nhất, béo khỏe và có dáng chuẩn nhất để làm đồ thờ cúng.</s>
+<s id="d1p13s9">Khi giết thịt lợn, kiêng kỵ chọc tiết lợn ra màu đen (phải là màu tiết hồng tươi).</s>
+<s id="d1p13s10">Khi làm lông và luộc gà, kiêng làm rách da gà, kiêng nhúng cả con vào nồi nước sôi (phải treo lên que/gậy phía trên miệng nồi và dội từng gáo  nước sôi tới khi gà chín,…).</s>
+<s id="d1p13s11">Với loại đồ thờ bằng hoa quả, xưa kia, dân làng còn cầu kỳ chọn 5 loại quả không có hạt (có hạt được coi là phàm tục) và chỉ được phép tìm kiếm trên mảnh đất mình tụ cư và làm ăn, không lấy từ nơi khác!</s>
+<s id="d1p13s12">Nếu vi phạm các quy định bất thành văn này, dân làng cho rằng trong năm sẽ chăn nuôi, trồng trọt thất bát, con người ốm đau, bệnh tật.</s>
+<s id="d1p13s13">Bên cạnh những lễ vật phục vụ việc thờ cúng mang tính phổ biến trong cộng đồng các làng/thôn có sinh hoạt tín ngưỡng thờ cúng các vua Hùng, hiện còn có thể nhận thấy những nét đặc trưng riêng biệt mang tính biểu tượng trong đồ cúng tế của một số làng/thôn.</s>
+<s id="d1p13s14">Đó là lễ vật cúng tế của thôn Cổ Tích, xã Hy Cương, thành phố Việt Trì, trong đó còn xuất hiện 3 đon mạ nhỏ xanh tốt, được bày trên mâm bên cạnh những mâm xôi, mâm gà, mâm gạo,… với ước nguyện cầu “phong đăng hòa cốc”, cày cấy thuận chiều, mùa màng bội thu.</s>
+<s id="d1p13s15">Trong lễ tế của các thôn Vi, Trẹo thuộc thị trấn Hùng Sơn, Lâm Thao, đồ tế lễ ngoài những thứ quen thuộc, còn phải dâng lễ một “ông” voi màu đen có đủ bành, yên cương, 2 “ông” ngựa (một “ông” màu hồng, một “ông” màu trắng) đều được làm bằng nứa đan, phết giấy, to như thật.</s>
+<s id="d1p13s16">Bên sườn “ông” voi và 2 “ông” ngựa phải làm kèm một ống nưa để thắp hương cho đến khi hóa ngày cuối hội.</s>
+<s id="d1p13s17">Người dân tin rằng, với hai “ông” ngựa này, đức vua và thánh thần có phương tiện ngao du, đi lại chăm nom dân lành, che chở mỗi khi dân làng gặp gió bão, lũ lụt, bệnh tật.</s>
+<s id="d1p13s18">(Xem thêm: Bui Quang Thanh - Offerings to Hung Kings; Vietnam academy of social sciences, 6 (146) - 2011).</s>
+</p>
+<p id="d1p14">
+<s id="d1p14s1">Về việc lựa chọn người tế lễ</s>
+<s id="d1p14s2">Trước đây, bên cạnh việc chọn lựa thủ nhang cho nơi thờ tự thường xuyên trong năm, việc lựa chọn chủ tế luôn được các làng/thôn tuân thủ một cách khắt khe, cẩn trọng.</s>
+<s id="d1p14s3">Dưới thời phong kiến (năm 1945 trở về trước), việc cắt cử, lựa chọn ngôi chủ tế thường do hội đồng hương lý, chức sắc, kỳ mục trong xã đề xuất và quyết định.</s>
+<s id="d1p14s4">Sau này, tại các làng, vị trí này chủ yếu do các bậc trưởng  lão và đại diện các dòng họ xem xét, quyết định.</s>
+<s id="d1p14s5">Người được chọn làm chủ tế bao giờ cũng phải đạt được những tiêu chuẩn bắt buộc: là đàn ông, đã lên lão (ngoài 50 tuổi), am hiểu cách thức tế lễ, có đạo đức tư cách tốt, được cộng đồng tin tưởng, kính trọng, gia đình hòa thuận và đặc biệt là phải không vướng tang ma.</s>
+<s id="d1p14s6">Khi người nào đã được các bậc cao niên và dân làng chọn làm chủ tế trong lễ hội sắp diễn ra, phải tuân thủ một số quy định bất thành văn: Đó là phải tránh dự các đám tang, không lao động nặng nhọc để giữ sức khỏe, kiêng sinh hoạt vợ chồng để giữ chay tịnh.</s>
+<s id="d1p14s7">Từ ngày được chọn chủ tế, tự thân người đó phải luyện tập các động tác lễ bái cho thuần thục, hòa nhuyễn với đội tế, nếu mắc lỗi sẽ bị làng bắt vạ.</s>
+<s id="d1p14s8">Trong thời gian luyện tập, vị chủ tế từ năm trước có trách nhiệm theo kèm để truyền dạy cách tế lễ, uốn nắn hoặc chỉ bảo các nghi thức tế lễ cần thiết cho chủ tế mới.</s>
+<s id="d1p14s9">Ngoài ra, người vinh dự được chọn làm chủ tế phải đảm bảo có một gia đình vững về kinh tế, đủ sức chi phí cho việc tổ chức sinh hoạt lễ hội, từ việc mời nuôi các phường nhà trò, phường bát âm, các nhóm văn nghệ (hát chèo, ca trù, hát xoan,…) cho đến anh em, khách khứa xa gần của gia đình, từ ngày mở cửa nơi thờ tự khai hội đến khi đóng hội.</s>
+<s id="d1p14s10">Đối với việc lập đội tế, mọi tiêu chí có giảm nhẹ hơn, chủ yếu là các bậc trung niên trở lên, có đạo đức, hiền lành, đoàn kết với làng xóm và không có tang.</s>
+<s id="d1p14s11">Hoạt động của đội tế đã có chủ tế đứng ra điều hành và những người am hiểu cách thức tế cúng truyền dạy (thường là những người thuộc đội tế lễ từ những năm trước), huấn luyện trong khoảng thời gian nhất định.</s>
+</p>
+<p id="d1p15">
+<s id="d1p15s1">Về sinh hoạt lễ hội truyền thống</s>
+<s id="d1p15s2">Theo những tư liệu hồi cố của các bậc cao niên ở tất cả 196 thôn/làng, lễ  hội tại các địa phương trước đây (từ 1945 trở về trước) tổ chức thường niên,  mức độ và phạm vi có sự khác nhau giữa các thôn/làng (tuỳ theo điều kiện vật chất và hoàn cảnh xã hội, truyền thống tín ngưỡng, phong tục, tập quán,…).</s>
+<s id="d1p15s3">Có 2 loại lễ hội được thực hành thường niên trong quá khứ:</s>
+<s id="d1p15s4">Lễ hội hàng tổng (liên kết giữa một số làng trong tổng hoặc các làng có quan hệ kết chạ, thờ chung một thành hoàng);</s>
+<s id="d1p15s5">Lễ hội riêng của từng làng/thôn theo thời gian khác nhau (do nhân sự các giáp đóng vai trò nòng cột).</s>
+<s id="d1p15s6">Phần lớn diễn ra vào khoảng thời gian tháng giêng hoặc giữa tháng tám và tháng chín âm lịch hàng năm.</s>
+<s id="d1p15s7">Về chủ thể tổ chức và điều hành lễ hội: Theo quy định của chính quyền phong kiến, từ trước Cách mạng tháng Tám 1945, Hội đồng chức sắc hàng Tổng đứng ra trực tiếp tổ chức và điều hành những lễ hội mà trong đó, các nhân vật làm chủ điện thần được triều đình ban sắc phong, chiếu chỉ.</s>
+<s id="d1p15s8">Với lễ hội riêng  từng làng, hình thức tổ chức do các giáp trong từng làng hợp sức đứng ra làm nhiệm vụ phục vụ hội, đảm nhiệm các chức trách, công việc do Hội đồng trưởng lão của làng quy định.</s>
+<s id="d1p15s9">Kinh phí dùng cho sinh hoạt lễ hội được thu từ hai nguồn: Nguồn thu nhập từ công điền công thổ (do triều đình hoặc chính quyền sở tại) cấp riêng cho nhà đền hàng năm và nguồn xã hội hóa từ đóng góp của trai đinh các giáp tham gia thực hành lễ hội.</s>
+<s id="d1p15s10">Về diễn trình lễ hội: Hầu hết các buổi thảo luận nhóm để cung cấp thông  tin cho việc kiểm kê đều đi đến nhận định: Diễn trình của một lễ hội ở làng quê phụng thờ Hùng Vương nói riêng, xưa kia ở đất Phú Thọ đều đa dạng, cầu kỳ và phức tạp.</s>
+<s id="d1p15s11">Hiện tất cả các làng/thôn đều không có tư liệu ghi chép thành văn nào (từ văn bia, thần tích, hương ước,…) ghi chép quy định cho các bước tiến hành diễn trình lễ hội.</s>
+<s id="d1p15s12">Việc thực hành được thực thi theo trí nhớ và từ các thế hệ trước truyền lại.</s>
+<s id="d1p15s13">Có một số nét chung theo quy định (bất thành văn) trong cung cách tế lễ và rước kiệu của diễn trình lễ hội.</s>
+<s id="d1p15s14">Đa số thường rước theo lộ trình từ miếu(hoặc nghè) về đình hoặc đền; và rước từ đình hoặc đền đi quanh làng, rồi trở về nơi xuất phát.</s>
+<s id="d1p15s15">Thứ tự các đội rước cũng theo quy định chung: Lần lượt là đội múa rồng/lân, đội cờ thần, đội kiệu lễ, phường bát âm, hai hàng bát bửu và bát khí, đội kiệu long đình (rước lô nhang), đội kiệu ngai và bài vị, đội tế, cuối cùng là dân chúng.</s>
+</p>
+<p id="d1p16">
+<s id="d1p16s1">Về các sinh hoạt tín ngưỡng và trò chơi dân gian đi kèm</s>
+<s id="d1p16s2">Xung quanh diễn trình của hoạt động thực hành các nghi lễ thờ phụng  Hùng Vương và các nghi thức tôn vinh tại sinh hoạt lễ hội, gần như trong tất cả các không gian thiêng của sinh hoạt tín ngưỡng đặc biệt này, cộng đồng dân chúng tại những nơi có di tích tín ngưỡng thờ Hùng Vương đều tổ chức thêm nhiều hình thức sinh hoạt văn hóa mang biểu tượng tín ngưỡng độc đáo, thể hiện những nét đặc trưng của nghề nghiệp, cung cách thẩm mỹ và nhận thức  của mình về tự nhiên, xã hội.</s>
+<s id="d1p16s3">Có thể nhận ra một số chủ đề sinh hoạt tín ngưỡng cơ bản được thực hành qua các hình thức diễn xướng nghệ thuật dân gian như sau: Sinh hoạt tín ngưỡng gắn với nghi lễ mang tính phồn thực:dùng sinh thực khí đã cách điệu làm đồ thờ, diễn xướng động tác trai gái giao phối qua trò tùng rí.</s>
+<s id="d1p16s4">Sinh hoạt tín ngưỡng gắn với ý niệm và mong ước của nghề trồng lúa nước:rước nước từ giữa sông về làm nước thờ, dùng mạ làm vật thờ.</s>
+<s id="d1p16s5">Sinh hoạt tín ngưỡng gắn với việc tái hiện sự nghiệp, công trạng của nhân vật được phụng thờ: mô phỏng động tác vua dạy dân cấy lúa, công chúa dạy dân nuôi tằm dệt vải, vua dạy dân đi săn.</s>
+<s id="d1p16s6">Sinh hoạt tín ngưỡng gắn với việc giải thích một số hiện tượng đặc biệt của tự nhiên và xã hội:dùng tiếng hú gọi/tìm nhau trong đêm khi lạc giữa rừng, vua dạy dân cách làm tiết canh khi thịt lợn.</s>
+<s id="d1p16s7">Sinh hoạt tín ngưỡng gắn với những sáng tạo độc đáo của thời kỳ khởi nguồn dựng nước và giữ nước của dân tộc:vua dạy dân nướng thịt sau cuộc săn, vua dạy dân cách cùng nhau luyện võ thuật, cung tên, vua dạy dân dựng làng  bản quây quần bên nhau để ở và bảo vệ nhau.</s>
+<s id="d1p16s8">Đa số các địa phương, nhất là các thôn/làng nằm xa các thị tứ, thành phố đều gặp nhau ở hình thức lễ cầu đảo (cầu tài, cầu mưa thuận gió hòa, cầu bình an, cầu đinh,...) trong quá trình thờ phụng Hùng Vương.</s>
+<s id="d1p16s9">Song hành với các hoạt động diễn xướng mang tính nghi lễ và tín ngưỡng văn hóa trong không gian thiêng thờ phụng Hùng Vương và các nhân vật phối thờ, hệ thống các trò chơi dân gian được thực hành bởi sự tham dự của nhiều lứa tuổi, gắn chặt với ký ức truyền thống và thể hiện nhận thức thực tại cuộc sống cũng như lý tưởng thẩm mỹ của cộng đồng.</s>
+<s id="d1p16s10">Có 2 hệ thống trò chơi dân gian: Hệ thống trò chơi mang tính phổ biến, tương đồng của các làng/thôn (chẳng hạn: bịt mắt bắt dê, kéo co, cướp cờ, thi bơi, bắt vịt trên ao/sông,…) và hệ thống trò chơi mang tính đặc trưng, độc đáo của một số làng/thôn trên đất Phú Thọ (chẳng hạn: trò quây lợn, trò trám, đánh phết, trò bắt chạch trong chum, trò tùng rí…).</s>
+</p>
+<p id="d1p17">
+<s id="d1p17s1">Những hoạt động sinh hoạt tín ngưỡng và lễ hội trong xã hội đương đại</s>
+<s id="d1p17s2">Từ sau Cách mạng tháng Tám 1945 đến những thập niên cuối thế kỷ XX,do nhiều nguyên nhân và hoàn cảnh lịch sử khác nhau, hầu hết các di tích vật chất phục vụ cho sinh hoạt tín ngưỡng bị hủy hoại, hàng loạt lễ hội dân gian ở các làng quê không phát triển.</s>
+<s id="d1p17s3">Tại hầu hết các làng quê, người dân gần như chỉ âm thầm tự tổ chức làm cỗ, thắp hương cúng Hùng Vương nói riêng cùng các nhân vật được phụng thờ nói chung (các thần, thánh, các mẫu, các nhân vật lịch sử) tại gia hoặc từ đường các dòng họ).</s>
+<s id="d1p17s4">Thực trạng lịch sử đó qua gần nửa thế kỷ đã gây ra những tổn thất về văn hóa vật thể và văn hóa phi vật thể sâu nặng cho cộng đồng.</s>
+<s id="d1p17s5">Hàng loạt di sản văn hóa quý báu của ông cha bị mất mát, tàn phá, lãng quên.</s>
+<s id="d1p17s6">Chính vì vậy, sự trao truyền văn hóa truyền thống giữa thế hệ trước với thế hệ sau, phần lớn bị đứt quãng, có tác động về nhiều mặt đối với đời sống văn hóa xã hội.</s>
+<s id="d1p17s7">Sinh hoạt tín ngưỡng văn hóa phụng thờ Hùng Vương ở Phú  Thọ nằm trong thực trạng xã hội điển hình đó.</s>
+<s id="d1p17s8">Từ cuối những năm 80, đặc biệt là từ năm 1995 đến nay tại 12 huyện thị có các làng quê sinh hoạt tín ngưỡng gắn với việc thờ phụng Hùng Vương ở Phú Thọ, có khoảng 50% số di tích được phục dựng (từ sau năm1990), 10% di tích được tu bổ, 20% di tích đã xuống cấp, có nguy cơ trở thành phế tích và 20% di tích đã hoàn toàn trở thành phế tích hoặc biến dạng.</s>
+<s id="d1p17s9">Về sinh hoạt lễ hội: Từ năm 1945 trở về trước, hầu khắp các làng có sinh hoạt tín ngưỡng thờ Hùng Vương đều tiến hành tổ chức lễ hội truyền thống ở  các cấp độ và mức độ khác nhau.</s>
+<s id="d1p17s10">Sau gần nửa thế kỷ đứt quãng, từ cuối những năm 1980 thế kỷ XX trở đi, lễ hội truyền thống được phục hồi và các di tích văn hóa tín ngưỡng được phép hoạt động trở lại.</s>
+<s id="d1p17s11">Tại nhiều địa phương, đội ngũ những người cao tuổi (từ 50 tuổi trở lên) đã đóng vai trò nòng cột trong việc tổ chức phục dựng và tham gia trực tiếp vào các công đoạn thực hành lễ hội nơi mình cư trú.</s>
+<s id="d1p17s12">Kinh phí dành cho việc tổ chức chủ yếu được người dân đóng góp, công đức.</s>
+</p>
+<p id="d1p18">
+<s id="d1p18s1">Những điểm khác của lễ hội hiện nay so với quá khứ</s>
+<s id="d1p18s2">Thời gian hành hội hiện nay ngắn hơn nhiều so với lễ hội truyền thống(chủ yếu diễn ra từ 1 đến 2 ngày).</s>
+<s id="d1p18s3">Quá trình thảo luận, phân công nhiệm vụ, thu chi kinh phí và tổ chức thực hành lễ hội được trao đổi một cách bình đẳng, dân chủ, công khai.</s>
+<s id="d1p18s4">Người dân của các làng/thôn có lễ hội đều được tham gia lễ hội hàng năm hoặc các dịp hội chính (theo quy định của Ban tổ chức lễ hội hoặc chính quyền sở tại) một cách bình đẳng, từ đóng góp nhân sự đến hưởng các quyền lợi vật chất và tinh thần thu nhận từ lễ hội.</s>
+<s id="d1p18s5">Thành phần đứng ra tổ chức điều hành và quản lý do Ban quản lý di tích các đình, đền, chùa đảm nhiệm, dưới sự chỉ đạo trực tiếp của chính quyền các cấp xã, huyện.</s>
+<s id="d1p18s6">Kinh phí phục vụ lễ hội do chính quyền tài trợ (nếu có điều kiện) kết hợp với công đức của toàn dân (là chủ yếu), không còn công thổ hoa lợi chung như xã hội phong kiến đặt ra trước đây.</s>
+<s id="d1p18s7">Do đề cao vấn đề trật tự an ninh và nếp sinh hoạt văn hóa văn minh, nên  lễ hội hiện nay bị giảm về mức độ náo nhiệt, hình thức tế lễ đa số bị giản lược,các loại vật phẩm dâng lễ không đa dạng và ý nghĩa của những vật thiêng cũng dần suy giảm theo.</s>
+<s id="d1p18s8">Việc chuẩn bị các đồ tế lễ được giản tiện nhiều, không phức tạp trong lựa chọn, sắp đặt như xưa.</s>
+<s id="d1p18s9">Một số hình thức tế lễ rườm rà được tước bỏ.</s>
+<s id="d1p18s10">Khá nhiều nét sinh hoạt tín ngưỡng tâm linh mang ý nghĩa thần bí, bùa chú được loại bỏ.</s>
+<s id="d1p18s11">Một số hình thức sinh hoạt văn hóa mang ý nghĩa phồn thực không còn được phục dựng.</s>
+<s id="d1p18s12">Mọi thành viên trong cộng đồng được thụ lộc hoặc liên hoan bình đẳng trong không gian văn hóa lễ hội.</s>
+<s id="d1p18s13">Trong quá trình chuẩn bị và tổ chức thực hành lễ hội, có sự kết hợp chặt chẽ giữa cộng đồng với chính quyền sở tại, được chính quyền hậu thuẫn tích cực về mặt an ninh, pháp lý và tham gia chỉ đạo tổ chức.</s>
+</p>
+<p id="d1p19">
+<s id="d1p19s1">Những đặc điểm cơ bản của sinh hoạt văn hóa tín ngưỡng thờ Hùng Vương ở Phú Thọ</s>
+<s id="d1p19s2">Hầu hết các làng/thôn đều thực hành các nghi lễ gắn với các lễ tiết trong năm (Tết Nguyên đán, rằm tháng Giêng, xuống đồng, cơm mới,… tại nơi thờ tự các vua Hùng.</s>
+<s id="d1p19s3">Hình thức nổi bật là nghi lễ cầu xin mưa thuận gió hòa, làm ăn thuận lợi, con người sức khỏe, cầu tài, cầu lộc.</s>
+<s id="d1p19s4">Mọi thực hành nghi lễ đều coi trọng vật thờ, được lựa chọn nghiêm ngặt, bắt buộc phải có ít nhất 3 loại lễ vật: Gà trống thiến, lợn đen và hoa quả.</s>
+<s id="d1p19s5">Lễ hội truyền thống gắn với sinh hoạt văn hóa tín ngưỡng thờ Hùng Vương trong chừng mực nhất định vẫn giữ được những lớp văn hóa, những yếu tố văn hóa cổ xưa, thể hiện qua việc diễn xướng các biểu tượng khi hành hội và tổ chức các trò chơi dân gian gắn với tín ngưỡng cổ.</s>
+<s id="d1p19s6">Đây là lễ hội thể hiện sự đa dạng về mặt hình thức, linh thiêng trong nội dung nghi lễ và thực hành lễ hội, bộc lộ truyền thống nhận thức sâu sắc  về  nguồn cội dựng nước và giữ nước của dân tộc.</s>
+<s id="d1p19s7">Các vai diễn thể hiện trong lễ hội nhìn chung đều mang khuôn phép chặt chẽ của nhận thức tâm linh, đòi hỏi sự đồng thuận cả về tinh thần, nhận thức và sức khỏe, nằm trong hệ thống vận hành của diễn trình lễ hội.</s>
+</p>
+<p id="d1p20">
+<s id="d1p20s1">Hệ thống các di sản văn hóa gắn với tín ngưỡng trong phạm vi không gian thờ phụng Hùng Vương</s>
+<s id="d1p20s2">Về các di sản văn hóa vật thể ở các làng/thôn:Thực trạng kiểm kê cho thấy, đa số các địa điểm thờ tự có tuổi đời hàng trăm năm đều bị hủy hoại hoặc nếu còn (số lượng ít) đều xuống cấp.</s>
+<s id="d1p20s3">Diện tích đất đai vốn thuộc phạm vi các khu thờ tự hầu hết đã bị lấn chiếm, theo các mức độ khác nhau (tiêu biểu là các thôn/làng của các huyện Đoan Hùng, Hạ Hòa, Yên Lập).</s>
+<s id="d1p20s4">Cảnh quan các di tích hầu như bị phá vỡ hoặc bị lấn át, bao lấp, chiếm dụng.</s>
+<s id="d1p20s5">Môi trường sinh thái tại các đường biên bị tác động xấu do sinh hoạt dân sinh.</s>
+<s id="d1p20s6">Một số di tích thiếu sự quan tâm của các cấp quản lý văn hóa.</s>
+<s id="d1p20s7">Tại một số di tích, mặt bằng bị lấn chiếm hoặc được dùng cho mục đích sử dụng ngoài phạm vi tín ngưỡng, tâm linh.</s>
+<s id="d1p20s8">Theo thống kê của chính quyền địa phương, cho đến nay, tại 46 thôn/làng trực tiếp tham gia vào sinh hoạt văn hóa tín ngưỡng tại các di tích được người dân gọi đích danh thờ Hùng Vương, 80% số ao đầm đã bị san lấp hoặc co hẹp, phục vụ những mục đích khác nhau theo nhu cầu đương đại.</s>
+<s id="d1p20s9">Nhiều ao, đầm, nghè, miếu liên quan đến vết tích của di tích cũ không còn nữa.</s>
+<s id="d1p20s10">Ví dụ: Nơi được truyền là thao trường luyện quân thời Hùng Vương ở xã Tiên Kiên (Lâm Thao), đình Đạng ở xã Xuân Viên (Yên Lập), đình Đanh ở xã Chính Công, đình Tân Tiến xã Vĩnh Chân (Hạ Hòa),…Một số di tích nguyên là nơi thờ tự khang trang, bị phá hủy hiện chưa có kinh phí phục dựng (Đình Cả, thị trấn Hùng Sơn, Lâm Thao; Cụm di tích thôn Đanh, xã Chính Công, Hạ Hòa,…).</s>
+<s id="d1p20s11">Đối với các di tích được cộng đồng các làng/thôn phục dựng trong vòng chục năm vừa qua, hầu như không có di tích nào trở lại hiện trạng và khuôn  dạng kiến trúc, quy mô như trong quá khứ.</s>
+<s id="d1p20s12">Phần lớn các nơi thờ tự đều có nội thất sơ sài, chưa đáp ứng được nhu cầu phục dựng theo truyền thống đã có.</s>
+<s id="d1p20s13">Về hệ thống các di sản văn hóa phi vật thể ở các làng/thôn: Cho đến nay, hầu hết các làng/thôn ở Phú Thọ có các di tích gắn với tín ngưỡng thờ Hùng Vương đều không có các ấn phẩm, xuất bản phẩm ghi chép, sưu tầm các truyền thuyết, lễ hội, trò chơi dân gian phản ánh hoặc liên quan trực tiếp đến sinh hoạt văn hóa tín ngưỡng này.</s>
+<s id="d1p20s14">Tại một số làng quê, có một số bậc cao niên tự  ghi chép, dịch thần tích, câu đối từ di tích tín ngưỡng của địa phương mình, nhưng đa số vẫn chưa được giới thiệu, khai thác.</s>
+<s id="d1p20s15">Tại một số di tích, hiện vẫn lưu tồn những bộ sách viết bằng chữ Hán, nhưng chưa được quan tâm dịch thuật và do vậy, không ít nội dung liên quan đến văn hóa truyền thống vẫn còn trong vòng  bí mật không có giá trị (nhận thức, giáo dục) với con cháu.</s>
+<s id="d1p20s16">Về xu hướng trao truyền di sản qua các thế hệ</s>
+<s id="d1p20s17">Thành phần nắm giữ mọi cách thức, nội dung chương trình tế lễ, hội hè là các bậc cao niên, những người đã có thời gian trữ tiếp tham gia thực hành các công đoạn thực hành nghi lễ và diễn trình của hoạt động hội trong quá khứ.</s>
+<s id="d1p20s18">Phần lớn đối tượng này đều cao tuổi, số lượng hiểu biết về nghi lễ, hành trạng thực hành nghi lễ và hành trạng hội không nhiều, một số đã và đang là các thành viên của Ban khánh tiết và Ban quản lý di tích tại làng/thôn.</s>
+<s id="d1p20s19">Lực lượng chủ yếu trực tiếp tham gia thực hành sinh hoạt tín ngưỡng là lứa tuổi trung niên (50 tuổi trở lên).</s>
+<s id="d1p20s20">Trong sinh hoạt hành hội, đội ngũ tham gia là các thế hệ thanh-thiếu nhi, tuổi từ 15 đến 25.</s>
+<s id="d1p20s21">Thông qua phiếu kiểm kê, 100% người tham gia thảo luận đều khẳng định, thế hệ trẻ, con cháu các gia đình trong các xóm đều nhiệt tình và hứng thú muốn được/nếu được tham gia trực tiếp vào các công việc hành hội nhưng  không hứng thú với công việc/hoạt động thực hành tế lễ.</s>
+<s id="d1p20s22">Phỏng vấn ngẫu nhiên các cháu đã tham gia kỳ lễ hội Rước vua về làng ăn Tết (thị trấn Hùng Sơn) và Đón vua vui xuân cùng làng bản (xã Tiên Kiên) cuối năm 2010 - đầu năm 2011, tất cả đều tự hào được chọn đóng các vai diễn và luôn sẵn sàng được góp công sức phục vụ lễ hội một cách tự giác, cho dù không được nhận thù lao, miễn là được nhà trường và gia đình cho phép.</s>
+<s id="d1p20s23">Tuy nhiên, do hoàn cảnh xã hội hiện đại và do thời gian học hành, các thế hệ con cháu chưa tự giác tìm hiểu về cội nguồn dân tộc và các lớp văn hóa truyền thống được phục dựng thực hành trong nghi lễ và lễ hội truyền thống của địa phương.</s>
+<s id="d1p20s24">Hầu hết các làng/thôn có các tư liệu thần tích, thần phả, văn bia và các nguồn sách vở bằng chữ Hán - Nôm gần như chưa khai thác, dịch thuật  để truyền bá trong cộng đồng.</s>
+<s id="d1p20s25">Hầu hết các câu đối, các chữ trên hoành phi, đại tự  tại các di tích đình, đền, chùa và hàng chục bộ sách chữ Hán chưa được chuyển ngữ để mọi người nhận biết,</s>
+</p>
+<p id="d1p21">
+<s id="d1p21s1">Một số vấn đề đặt ra trong quá trình bảo tồn và khai thác giá trị di sản</s>
+<s id="d1p21s2">Về tình trạng và hiệu ứng tích cực của di sản</s>
+<s id="d1p21s3">Cho đến nay, phần lớn các sinh hoạt văn hóa tín ngưỡng gắn với việc  thờ phụng các vua Hùng (dưới nhiều tên gọi khác nhau) tại 12 huyện/thị/thành phố ở Phú Thọ đã được cộng đồng dân chúng sở tại quan tâm, khôi phục, cả về vật chất (cơ sở thờ tự) lẫn tinh thần.</s>
+<s id="d1p21s4">Do điều kiện kinh tế eo hẹp và những hoàn cảnh chủ quan, khách quan khác nhau, số lượng các di tích được khôi phục, tôn tạo, trùng tu hoặc phục dựng từ đầu, trên nền đất cũ, ở nhiều huyện vẫn còn khiêm tốn.</s>
+<s id="d1p21s5">Thể hiện rõ nhất ở các huyện có đời sống kinh tế vật chất khó khăn, như Hạ Hòa, Thanh Ba, Yên Lập, Thanh Sơn.</s>
+<s id="d1p21s6">Cạnh đó, cũng do trên dưới gần nửa thế kỷ bị cấm đoán, đứt quãng, thiếu sự quan tâm quản lý của chính quyền cơ sở và người dân địa phương, nhiều di tích đã bị chiếm dụng ở những mức độ khác nhau.</s>
+<s id="d1p21s7">Nhiều đồ vật dụng phục vụ cho quá trình hành lễ, bài trí nội thất thờ tự cổ xưa bị huỷ hoại hoặc cũ nát.</s>
+<s id="d1p21s8">Trong khi đó, nhu cầu sinh hoạt tín ngưỡng - tâm linh của cộng đồng vẫn rất cao.</s>
+<s id="d1p21s9">Đa số các địa phương, việc phục dựng cơ sở tín ngưỡng đều do cộng đồng dân chúng đóng góp và hợp sức xây dựng.</s>
+<s id="d1p21s10">Thể hiện rõ nhất ở các huyện Cẩm Khê, Phù Ninh và thành phố Việt Trì.</s>
+<s id="d1p21s11">Ý thức bảo tồn và duy trì tín ngưỡng thờ phụng các vua Hùng tại các làng/thôn/khu dân cư chủ yếu thuộc lứa tuổi trung niên trở lên, thể hiện qua  hành động đóng góp công sức, vật lực cụ thể.</s>
+<s id="d1p21s12">Nếu như trong nửa cuối của thế kỷ XX, thành phần tham gia sinh hoạt văn hóa tín ngưỡng thờ Hùng Vương chủ yếu là lứa tuổi cao niên, thì từ cuối thế kỷ XX (những năm 90) đến nay, thành phần tham gia thực hành tín ngưỡng không chỉ dừng ở hội người cao tuổi mà còn mở rộng đến lực lượng thanh niên, trai tráng trong làng/thôn.</s>
+<s id="d1p21s13">Riêng sinh hoạt lễ hội đã được mở rộng ra nhiều lứa tuổi, cả nam lẫn nữ.</s>
+<s id="d1p21s14">Đặc biệt, tại các địa phương có nhiều lễ hội truyền thống (các huyện/thị: Cẩm Khê, Lâm Thao, Việt Trì, Thanh Thuỷ, Phù Ninh), thành phần tham gia thực hành hội đã mang tính cộng đồng sâu rộng, được sự hưởng ứng của mọi lứa tuổi, nghề nghiệp và vị trí công tác khác nhau.</s>
+<s id="d1p21s15">Trong khoảng trên dưới chục năm trở lại đây, một số địa phương đã tổ chức phục dựng sinh hoạt lễ hội trong các kỳ sinh hoạt văn hóa tín ngưỡng thờ Hùng Vương (Đào Xá của Thanh Thuỷ, Hùng Lô của Việt Trì, Khổng Tước của Cẩm Khê, các làng Vi, Trẹo, thị trấn Hùng Sơn và các làng thuộc xã Tiên Kiên của Lâm Thao,…).</s>
+<s id="d1p21s16">Thực tế đó đã, ở những hình thức và mức độ khác nhau, giúp cho các thế hệ nhận thức sâu sắc thêm các giá trị truyền thống văn hóa của dân tộc buổi đầu dựng nước, đặc biệt là thế hệ trẻ.</s>
+<s id="d1p21s17">Điều này đã có tác động tích cực cho mối quan hệ giáo dục giữa nhà trường và xã hội trong hoàn cảnh đương đại và nâng cao ý thức bảo vệ các di tích lịch sử - văn hóa truyền thống ở từ địa phương.</s>
+<s id="d1p21s18">Khảo sát thực tĩên tại các địa phương có tổ chức sinh hoạt lễ hội gắn với sinh hoạt văn hóa tín ngưỡng thờ phụng Hùng Vương nói riêng, sinh hoạt hội làng nói chung ở một số huyện, thành phố của Phú Thọ, có thể nhận thấy,chính quyền và các bộ máy quản lý văn hóa các cấp, đặc biệt là cấp xã đã trực tiếp gánh vác trách nhiệm tổ chức, điều hành, theo dõi, kiểm tra tất cả mọi khâu của quá trình chuẩn bị nhân tài vật lực, diễn tập và hành hội.</s>
+<s id="d1p21s19">Tổng hợp các phiếu điều tra của các nhóm đại diện cho cộng đồng, có thể nhận thấy sự hài lòng của dân chúng đối với chính quyền địa phương cấp xã và cấp thôn.</s>
+<s id="d1p21s20">Điều đó cho thấy rõ những cơ sở tạo ra sự đồng thuận theo chiều hướng tích cực để duy trì lễ hội một cách bền vững và đem lại hiệu ứng tích cực trong quá trình khai thác những giá trị và ý nghĩa của lễ hội phục vụ công cuộc xây dựng đời sống văn hóa cơ sở trong hiện tại và lâu dài.</s>
+<s id="d1p21s21">Bước đầu, chính quyền cấp xã đã kết hợp chặt chẽ với cộng đồng theo phương châm xã hội hóa trong quản lý, bảo tồn và khai thác giá trị di tích, đầu tư cơ sở vật chất, kinh phí tu bổ, phục hồi, tôn tạo các di tích tuỳ theo tính cấp thiết của từng di tích, với các mức độ khác nhau, đáp ứng được nhu cầu tín ngưỡng của cộng đồng trong không gian có di sản văn hóa.</s>
+<s id="d1p21s22">Theo thống kê, có 90% số ý kiến của cộng đồng nhất trí với bước đi ban đầu của chính quyền địa phương trong quá trình khôi phục, bảo tồn di tích và tổ chức lễ hội gắn với tín ngưỡng thờ Hùng Vương hiện nay.</s>
+<s id="d1p21s23">Một số nguy cơ đặt ra từ thực tế đối với di sản</s>
+<s id="d1p21s24">Qua điều tra, 95% số người đại diện cho cộng đồng thôn, xóm, khu dân  cư tham gia thảo luận đều khẳng định sự yếu kém, hạn chế trong các khâu sưu tầm, ghi chép về lịch sử di tích văn hóa tín ngưỡng cũng như diễn trình của lễ  hội truyền thống địa phương (số người biết chữ Hán, Nôm ngày một ít, có địa phương không còn ai).</s>
+<s id="d1p21s25">Hầu hết các cách thức, nội dung sinh hoạt nghi lễ và các hoạt động thực hành sinh hoạt văn hóa truyền thống nói chung (rước kiệu, trò chơi dân gian,...) gần như chỉ được trao truyền, thực hành theo phương thức truyền khẩu.</s>
+<s id="d1p21s26">Một số bậc cao niên ở một số làng quê đã có ý thức ghi chép, nhưng đều mang tính tự phát, theo nhận thức chủ quan cá nhân, chưa được đưa ra trao đổi, bổ sung và phổ biến trong cộng đồng.</s>
+<s id="d1p21s27">Thực trạng đó dẫn đến sự rơi rụng, mất mát nguồn văn hóa phi vật thể quý báu vốn đã được sáng tạo, thực hành trong quá khứ, làm cho đời sống sinh hoạt văn hóa tín ngưỡng hiện nay rơi vào hoàn cảnh đơn điệu, chắp vá và mất đi bản sắc độc đáo, hấp dẫn vốn có.</s>
+<s id="d1p21s28">100% người thảo luận nêu ra vai trò yếu kém của chính quyền các cấp trong việc tổ chức đầu tư trí tuệ, công sức cho việc sưu tầm, ghi chép, xuất bản và phát hành đến các thành viên trong cộng đồng những di sản văn hóa phi vật thể liên quan đến văn hóa truyền thống địa phương nói chung và sinh hoạt văn hóa tín ngưỡng gắn với việc thờ phụng Hùng Vương nói riêng...</s>
+<s id="d1p21s29">90% người thảo luận cho rằng, chính quyền các cấp còn chưa năng động và sáng tạo trong việc mở rộng quan hệ, vận động sự quan tâm của các tổ chức phi chính phủ, các thành phần xã hội khác nhau đến việc bảo tồn, khai thác và phát huy giá trị của di sản văn hóa ở địa phương.</s>
+<s id="d1p21s30">Chính vì thế, sự hạn chế trong tiềm lực của công cuộc xã hội hóa phục vụ nhiệm vụ bảo tồn di sản văn hóa đã chưa đủ lực tạo ra sức hút của di sản và quá trình trao truyền di sản giữa các  thế hệ.</s>
+<s id="d1p21s31">Nhiều di tích chưa được quy hoạch phục dựng hoặc tu bổ, chống xuống cấp.</s>
+<s id="d1p21s32">100% ý kiến thảo luận đề xuất việc chính quyền cần khẩn trương quản lý, điều hành sao cho Luật Di sản Văn hóa được vận dụng có hiệu lực vào thực tiễn, đáp ứng nguyện vọng bảo vệ diện tích và cảnh quan không gian văn hóa di tích, bảo vệ di sản văn hóa vật thể của từng di tích tại các làng/thôn.</s>
+<s id="d1p21s33">Theo ý kiến của đại diện các ban quản lý di tích làng/thôn, một trong những nguyên nhân dẫn đến tình trạng di tích xuống cấp, môi trường sinh thái  và nhân văn bị tác động xấu là do Nhà nước cùng chính quyền các cấp chưa có chế độ vật chất (kinh phí) thích hợp đối với những người trông nom, bảo vệ di tích (các thủ nhang, chủ tế, các thành viên trong ban quản lý di tích,…).</s>
+<s id="d1p21s34">Các cấp quản lý văn hóa còn nặng về chỉ thị văn bản hành chính, nghiêng về việc tổ chức các hoạt động tuyên truyền đường lối, chính sách, chưa thực sự chủ động, năng động sâu sát với cơ sở, có kế hoạch hành động trước mắt và lâu dài đối với việc bảo tồn và khai thác giá trị văn hóa của di sản ở các địa phương.</s>
+<s id="d1p21s35">Tại các bộ phận đảm trách việc quản lý và nghiên cứu nghiệp vụ văn hóa (phòng VHTT huyện, thị xã, cán bộ văn hóa xã/phường), phần lớn đội ngũ cán bộ nghiệp vụ còn trẻ, kiến thức về văn hóa truyền thống còn nhiều hạn chế, ý thức học hỏi, đi sâu thực tiễn nghiên cứu chưa cao.</s>
+<s id="d1p21s36">Do vậy, việc tham gia quản lý văn hóa cơ sở gặp không ít hạn chế, thậm chí có phần sai lệch cả về nhận thức chuyên môn lẫn nhu cầu của đời sống văn hóa cộng đồng.</s>
+<s id="d1p21s37">Trong thực tế, sự gắn kết giữa nhà trường các cấp tại địa phương với việc bảo về, quảng bá giá trị di sản văn hóa của các làng/thôn chưa chặt chẽ.</s>
+<s id="d1p21s38">Công tác tuyên truyền, giáo dục còn nhiều hạn chế, chưa tạo thành phong trào sâu rộng trong cộng đồng.</s>
+<s id="d1p21s39">Hiện tại, trong nội dung sách giáo khoa dạy cho học sinh các cấp, số lượng trang giới thiệu về truyền thuyết dân gian, lễ hội dân gian gắn với thời đại Hùng Vương và ngọn nguồn dân tộc còn quá ít (sách Ngữ văn lớp 6)!</s>
+<s id="d1p21s40">Vẫn còn hiện tượng cá biệt ở một vài địa phương hiện đã và đang diễn ra sự không thống nhất trong quan điểm và hành động đánh giá giá trị của di sản văn hóa truyền thống giữa chính quyền cấp xã với cộng đồng sở tại.</s>
+<s id="d1p21s41">Chẳng hạn, tại xã Xuân Viên, huyện Yên Lập, chính quyền đã và đang có chủ trương không cho khôi phục các di tích văn hóa tín ngưỡng vốn có trước đây, nhưng đã bị phá huỷ từ năm 1975 (với lý do chống mê tín dị đoan!).</s>
+<s id="d1p21s42">Cả một cụm di tích bao gồm đình Đạng, chùa, miếu liên quan đến việc thờ phụng Hùng Vương thuộc 3 làng trong xã đã bị cháy và bị phá huỷ, vốn trước đây nằm trong hệ thống rước lễ hoành tráng của lễ hội truyền thống địa phương.</s>
+<s id="d1p21s43">Hiện nay, cộng đồng có nhu  cầu tự đóng góp kinh phí để phục dựng các cơ sở sinh hoạt tín ngưỡng đó, nhưng chính quyền chưa tạo điều kiện.</s>
+<s id="d1p21s44">Do nhu cầu sinh hoạt văn hóa tâm linh, người dân xã Xuân Viên thường xuyên phải đến tham gia sinh hoạt nhờ tại xã láng giềng!</s>
+<s id="d1p21s45">Hiện tượng xâm chiếm, vi phạm sở hữu đất đai tại khá nhiều di tích thờ phụng các vua Hùng là một thực tế đã và đang diễn ra.</s>
+<s id="d1p21s46">Tại một số địa phương, do khâu quản lý đất đai và di tích văn hóa lỏng lẻo, yếu kém, nhiều di tích bị chiếm dụng tài sản, đất đai (do tự ý hoặc được chính quyền cấp phép).</s>
+<s id="d1p21s47">Cạnh đó, chính quyền một số địa phương còn cho phép xóa bỏ di tích để nhường đất xây dựng cho nhà công sở hoặc xây dựng tuỳ ý tại không gian thuộc phạm vi sử dụng của sinh hoạt văn hóa tín ngưỡng, tôn giáo cộng đồng.</s>
+<s id="d1p21s48">Đa số người dân đã đề nghị chính quyền các cấp quan tâm hơn nữa đến lực lượng doanh nhân, vốn là con em người địa phương, do hoạt động doanh nghiệp mà thành đạt, và có nhu cầu công đức, đầu tư cho việc phục dựng, tôn  tạo các di sản văn hóa địa phương./.</s>
+<s id="d1p21s49">Người viết báo cáo PGS.TS Bùi Quang Thanh Trưởng nhóm kiểm kê khoa học Tín ngưỡng thờ cúng Hùng Vương</s>
+</p>
+</div>
+<div id="d2">
+<head>DANH SÁCH CÁC LÀNG THỜ CÚNG HÙNG VƯƠNG Ở TỈNH PHÚ THỌ</head>
+<p id="d2p1">
+<s id="d2p1s1">STT</s>
+<s id="d2p1s2">Địa danh</s>
+<s id="d2p1s3">Thôn/Xóm/Khu</s>
+<s id="d2p1s4">2Xã/Phường/Thị trấn</s>
+<s id="d2p1s5">Huyện/Thị xã</s>
+<s id="d2p1s6">Thôn Thượng Tinh Xá.	</s>
+<s id="d2p1s7">Thanh Xá</s>
+<s id="d2p1s8">THANH BA</s>
+<s id="d2p1s9">Thôn Tinh Xá.</s>
+<s id="d2p1s10">Xóm Lăng.</s>
+<s id="d2p1s11">Thái Ninh</s>
+<s id="d2p1s12">Thôn Đông Thượng.</s>
+<s id="d2p1s13">Đông Thành</s>
+<s id="d2p1s14">Xóm Đối Đen</s>
+<s id="d2p1s15">Đông Lĩnh</s>
+<s id="d2p1s16">Thôn Thượng.</s>
+<s id="d2p1s17">Khải Xuân</s>
+<s id="d2p1s18">Xóm Lũng.</s>
+<s id="d2p1s19">Võ Lao</s>
+<s id="d2p1s20">Xóm Chùa.</s>
+<s id="d2p1s21">Thôn Quản Dương.</s>
+<s id="d2p1s22">Lương Lỗ</s>
+<s id="d2p1s23">Thôn Quán.</s>
+<s id="d2p1s24">Thôn Quán Lương.</s>
+<s id="d2p1s25">Khu 16 (thôn Mạo Phổ)</s>
+<s id="d2p1s26">Khu 2</s>
+<s id="d2p1s27">Quảng Nạp</s>
+<s id="d2p1s28">Khu 3</s>
+<s id="d2p1s29">Khu 4 (thôn Ngoài)</s>
+<s id="d2p1s30">Xóm Võ (thôn Đồng Lạn)</s>
+<s id="d2p1s31">Vũ Yển</s>
+<s id="d2p1s32">Xóm Sấu (thôn Hoàng Cương)</s>
+<s id="d2p1s33">Hoàng Cương</s>
+<s id="d2p1s34">Xóm Giuồng</s>
+<s id="d2p1s35">Mạn Lạn</s>
+<s id="d2p1s36">Xóm Vàng</s>
+<s id="d2p1s37">Yển Khê</s>
+<s id="d2p1s38">Xóm Nghĩa</s>
+<s id="d2p1s39">Xóm Ngăn.</s>
+<s id="d2p1s40">Đại An</s>
+<s id="d2p1s41">Thôn Tân Thân</s>
+<s id="d2p1s42">Yên Nội</s>
+<s id="d2p1s43">Xóm Lem.</s>
+<s id="d2p1s44">Làng Phương Trà</s>
+<s id="d2p1s45">Liên Phương</s>
+<s id="d2p1s46">Xóm Xuân Áng</s>
+<s id="d2p1s47">Hậu Bổng</s>
+<s id="d2p1s48">Xóm Đan (Khu 1)</s>
+<s id="d2p1s49">Đan Hòa</s>
+<s id="d2p1s50">Làng Vô Tranh</s>
+<s id="d2p1s51">Võ Tranh</s>
+<s id="d2p1s52">Xóm Cầu Xây</s>
+<s id="d2p1s53">Ấm Hạ</s>
+<s id="d2p1s54">Xóm Phú Vĩnh.</s>
+<s id="d2p1s55">Bằng Giã</s>
+<s id="d2p1s56">Làng Bến</s>
+<s id="d2p1s57">Xóm Đanh.</s>
+<s id="d2p1s58">Chính Công</s>
+<s id="d2p1s59">Thôn Trường Thiên</s>
+<s id="d2p1s60">Vĩnh Chân</s>
+<s id="d2p1s61">Thôn Tân Tiến</s>
+<s id="d2p1s62">Thôn Tân Lập.</s>
+<s id="d2p1s63">Minh Tiến</s>
+<s id="d2p1s64">ĐOAN HÙNG</s>
+<s id="d2p1s65">Thôn Phú Nham.</s>
+<s id="d2p1s66">Phú Thứ</s>
+<s id="d2p1s67">Vĩnh Lại</s>
+<s id="d2p1s68">Hùng Quan</s>
+<s id="d2p1s69">Thôn Kê.</s>
+<s id="d2p1s70">Phúc Lai</s>
+<s id="d2p1s71">Thôn Lê Hùng</s>
+<s id="d2p1s72">Sóc Đăng</s>
+<s id="d2p1s73">Thôn Đình Cả</s>
+<s id="d2p1s74">Tiên Sơn</s>
+<s id="d2p1s75">Làng Đại Hộ</s>
+<s id="d2p1s76">Đại Nghĩa</s>
+<s id="d2p1s77">Thôn Đám</s>
+<s id="d2p1s78">Chí Đám</s>
+<s id="d2p1s79">Thôn Ngọc Tân</s>
+<s id="d2p1s80">Ngọc Quan</s>
+<s id="d2p1s81">Đồng Bích</s>
+<s id="d2p1s82">Hùng Long</s>
+<s id="d2p1s83">Thôn Đồng Kệ (làng Đồng Kệ)</s>
+<s id="d2p1s84">Đồng Cam</s>
+<s id="d2p1s85">>CẨM KHÊ</s>
+<s id="d2p1s86">Thôn Vực Câu.</s>
+<s id="d2p1s87">Tiên Lương</s>
+<s id="d2p1s88">Thôn Mỹ Đức</s>
+<s id="d2p1s89">Thôn Quyết Tiến – xóm Sâu.</s>
+<s id="d2p1s90">Tuy Lộc</s>
+<s id="d2p1s91">Thôn Vực Cầu (Khu 9)</s>
+<s id="d2p1s92">Thị trấn Sông Thao</s>
+<s id="d2p1s93">Làng Đông Viên (Khu 4)</s>
+<s id="d2p1s94">Xóm Gọ</s>
+<s id="d2p1s95">Phùng Xá</s>
+<s id="d2p1s96">Xóm Cầu Ngòi</s>
+<s id="d2p1s97">Cấp Dẫn</s>
+<s id="d2p1s98">Xóm Đoài</s>
+<s id="d2p1s99">Thanh Nga</s>
+<s id="d2p1s100">Xóm Gò Làng (Khu 4)</s>
+<s id="d2p1s101">Sơn Tình</s>
+<s id="d2p1s102">Xóm Gò (Khu 6 - 7)</s>
+<s id="d2p1s103">Thôn Khổng Tước – Xóm Chùa (Khu 6)</s>
+<s id="d2p1s104">Phượng Vỹ</s>
+<s id="d2p1s105">Thôn Trình Khúc</s>
+<s id="d2p1s106">Văn Khúc</s>
+<s id="d2p1s107">Thôn Ô Đà</s>
+<s id="d2p1s108">Làng Thạch Đê (Khu 3)</s>
+<s id="d2p1s109">Hiền Đa</s>
+<s id="d2p1s110">Xóm Bến Đá (Khu 5)</s>
+<s id="d2p1s111">Chương Xá</s>
+<s id="d2p1s112">Thôn Quyết Tiến</s>
+<s id="d2p1s113">Tuy Lộc</s>
+<s id="d2p1s114">Xóm Đình (Khu 7)</s>
+<s id="d2p1s115">Đồng Luận</s>
+<s id="d2p1s116">THANH THỦY</s>
+<s id="d2p1s117">Thôn Đào Xá (Khu 5)</s>
+<s id="d2p1s118">Đào Xá</s>
+<s id="d2p1s119">Phương Giao (Khu 12-13)</s>
+<s id="d2p1s120">Hạ Bì Trung</s>
+<s id="d2p1s121">Xuân Lộc</s>
+<s id="d2p1s122">Làng Kim Đức (Khu 6)</s>
+<s id="d2p1s123">Kim Đức</s>
+<s id="d2p1s124">Thành phố VIỆT TRÌ</s>
+<s id="d2p1s125">Thôn Kim Đái (Khu 3)</s>
+<s id="d2p1s126">Làng Thét (Khu 8)</s>
+<s id="d2p1s127">Lâu Thượng</s>
+<s id="d2p1s128">xã Trưng Vương</s>
+<s id="d2p1s129">Thôn Hòa Bình 1 (Khu 7)</s>
+<s id="d2p1s130">Phường Bến Gót</s>
+<s id="d2p1s131">Thôn Hòa Bình</s>
+<s id="d2p1s132">Xóm Giải (làng Hồng Hải)</s>
+<s id="d2p1s133">Phường Minh Nông</s>
+<s id="d2p1s134">Xóm Từ Mõ (Khu 2)</s>
+<s id="d2p1s135">Xã Hùng Lô</s>
+<s id="d2p1s136">Phú Nang (Khu 4)</s>
+<s id="d2p1s137">Phường Vân Phú </s>
+<s id="d2p1s138">Thôn Vân Luông (Khu 7)</s>
+<s id="d2p1s139">Xóm Lũng</s>
+<s id="d2p1s140">Xã Hy Cương</s>
+<s id="d2p1s141">Làng Cổ Tích</s>
+<s id="d2p1s142">Thôn Thuần Lương</s>
+<s id="d2p1s143">xã Sông Lô</s>
+<s id="d2p1s144">Thôn Vân Khê - đình Thia (Khu 3)</s>
+<s id="d2p1s145">Hà Lộc</s>
+<s id="d2p1s146">Thị xã PHÚ THỌ</s>
+<s id="d2p1s147">Thôn Hạ</s>
+<s id="d2p1s148">Thanh Minh</s>
+<s id="d2p1s149">Làng Mạo (Khu dân cư số 2)</s>
+<s id="d2p1s150">Thôn Thanh Lâu (Khu 8)</s>
+<s id="d2p1s151">Làng Trẹo (Khu 7)</s>
+<s id="d2p1s152">Thị trấn Hùng Sơn</s>
+<s id="d2p1s153">LÂM THAO</s>
+<s id="d2p1s154">Làng Hậu Lộc (Khu 2)</s>
+<s id="d2p1s155">Xóm Phường (Khu 16)</s>
+<s id="d2p1s156">Thôn Vi Cương (Khu 3)</s>
+<s id="d2p1s157">Làng Huy Sơn (Khu 14)</s>
+<s id="d2p1s158">Làng Vi (Đình Đông) – Khu 3</s>
+<s id="d2p1s159">Xóm Mở - Khu 12 (đình Tập Lục)</s>
+<s id="d2p1s160">Tiên Kiên</s>
+<s id="d2p1s161">Xóm Lum (Khu 7 )</s>
+<s id="d2p1s162">Đình Cả (Khu 3)</s>
+<s id="d2p1s163">Xóm Đoàn Kết – Đình Giã (Khu 4)</s>
+<s id="d2p1s164">Xóm Mua - Chùa Quan Mạc (Khu 5)</s>
+<s id="d2p1s165">Khuân Dậu</s>
+<s id="d2p1s166">Trung Giáp</s>
+<s id="d2p1s167">PHÙ NINH</s>
+<s id="d2p1s168">Xóm Đình</s>
+<s id="d2p1s169">Thôn Nội (Khu 8)</s>
+<s id="d2p1s170">Hạ Giáp</s>
+<s id="d2p1s171">Thanh Thúy</s>
+<s id="d2p1s172">Bảo Thanh</s>
+<s id="d2p1s173">Thôn Vải Đạng (Khu 2)</s>
+<s id="d2p1s174">Xuân Viên</s>
+<s id="d2p1s175">YÊN LẬP</s>
+<s id="d2p1s176">Giai Thượng</s>
+<s id="d2p1s177">Thắng Sơn</s>
+<s id="d2p1s178">THANH SƠN</s>
+<s id="d2p1s179">Xóm Chòi (Khu 13)</s>
+<s id="d2p1s180">Cự Thắng</s>
+<s id="d2p1s181">Thôn Dẹ (Khu 2)</s>
+<s id="d2p1s182">Văn Miếu</s>
+<s id="d2p1s183">Phố Ba Mỏ</s>
+<s id="d2p1s184">Thị trấn Thanh Sơn</s>
+<s id="d2p1s185">Xóm Chùa (Khu 2)</s>
+<s id="d2p1s186">Xuân Quang</s>
+<s id="d2p1s187">TAM NÔNG</s>
+<s id="d2p1s188">Thôn Bình Lỗ (Khu 9)</s>
+<s id="d2p1s189">Thôn Thanh Uyên (Khu 3)</s>
+<s id="d2p1s190">Thanh Uyên</s>
+<s id="d2p1s191">Thôn Sơn Cương (Khu 1)</s>
+<s id="d2p1s192">Hồng Đà</s>
+<s id="d2p1s193">Thôn Hạ Nông (Khu 6)</s>
+<s id="d2p1s194">Xóm Gò Dược (Khu 2)</s>
+<s id="d2p1s195">Dị Nậu</s>
+<s id="d2p1s196">Xóm Gia Khảm( Khu 6)</s>
+<s id="d2p1s197">Xóm Hoàng Hanh (Khu 7)</s>
+<s id="d2p1s198">Tổng</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.1>

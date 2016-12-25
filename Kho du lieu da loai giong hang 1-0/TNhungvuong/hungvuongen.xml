@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" standalone="no"?>
+<!DOCTYPE TEI.1 SYSTEM "D:/Arcade2/Affaires/Corpus/dtd/xlite/exteilite.dtd">
+<!--DOCTYPE TEI.2 SYSTEM "dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]-->
+<TEI.1 id="hungvuongen.xml">
+	<teiHeader date.updated="23 Jan 2016">
+		<fileDesc>
+			<titleStmt>
+				<title>THE NATIONAL CANDIDATURE FILE FOR INSCRIPTION ON THE REPRESENTATIVE LIST OF UNESCO THE WORSHIP OF HÙNG KINGS IN PHÚ Thọ</title>
+				<author>Department of culture, sports and tourism of Phu Tho </author>
+				<respStmt>
+					<resp>no</resp>
+					<name>Nguyen Tien Ha</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor></distributor>
+				<authority></authority>
+				<date/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Tourism</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+<text>
+<body id="b1">
+<head>THE NATIONAL CANDIDATURE FILE FOR INSCRIPTION ON THE REPRESENTATIVE LIST OF UNESCO THE WORSHIP OF HÙNG KINGS IN PHÚ Thọ</head>
+<div id="d1">
+<head>REPORT ON THE SCIENTIFIC INVENTORY OF THE WORSHIP OF HÙNG KINGS IN PHÚ Thọ PROVINCE</head>
+<p id="d1p1">
+<s id="d1p1s1">Vietnam Institute of Culture and Arts Studies</s>
+</p>
+<p id="d1p2">
+<s id="d1p2s1">Time Period The scientific inventory was carried out during the following times:</s>
+<s id="d1p2s2">Phase 1: August 25 – September 30, 2010;</s>
+<s id="d1p2s3">Phases 2 and 3: October 5, 2010 – February 30, 2011.</s>
+</p>
+<p id="d1p3">
+<s id="d1p3s1">Objectives The scientific inventory had the following objectives:</s>
+<s id="d1p3s2">To survey and assess the situation of the worship of Hùng Kings among Vi?t communities within Phú Thọ province, where the worship of Hùng Kings originated and whence it has been passed on;</s>
+<s id="d1p3s3">To systematically collect data provided by these communities in order to assess the existing situation of material heritage and cultural-religious activities directly related to the Hùng Kings, and draw on these data in planning for the further collection, preservation and promotion of the cultural-heritage values of the worship of Hùng Kings (as it has been carried out on different scales and at different levels for many years);</s>
+<s id="d1p3s4">To collect scientific evidence in accordance with UNESCO’s guidelines and criteria, and later include this evidence in the profile to be submitted to  UNESCO for inscription of the worship of Hùng Kings on the Representative List of Intangible Cultural Heritage of Humanity.</s>
+</p>
+<p id="d1p4">
+<s id="d1p4s1">Locations</s>
+<s id="d1p4s2">Characteristics of Residential Areas and the System of Belief Practice and Festivals Related to the Worship of Hùng Kings</s>
+<s id="d1p4s3">The area comprising all the villages/hamlets in which Hùng Kings worship and festivals related to figures of the Hùng Kings period take place is very  large, covering the eastern, northern and western parts of Phú Thọ province (12 out of 13 districts, towns and cities, and 74 out of 275 communes, wards and towns with 109 villages, hamlets and residential quarters); many of these sites can be found in two central areas, consisting of the communes, wards and towns of Vi?t Trì City and Lâm Thao District.</s>
+<s id="d1p4s4">A unique character is worshipped in each of the belief spaces of nearly all the villages in these 12 districts, towns, and cities of Phú Thọ province.</s>
+<s id="d1p4s5">As a  first step, we focus on the worship of Hùng Kings; later other characters will be examined as additional data relevant to determining the scale of worship.</s>
+</p>
+<p id="d1p5">
+<s id="d1p5s1">Selection of Villages for the Scientific Inventory The selection of villages for the scientific inventory was made with attention to the following issues:</s>
+<s id="d1p5s2">On the basis of the Hùng Kings Family Tree, legends, conferments and petition sheets currently kept in the vicinity of Hùng Kings temples and shrines in communes of Lâm Thao District, Vi?t Trì City, as well as Sino-Vietnamese documents held by the Institute of Sino Studies, Vietnam Academy of Social Sciences, where titles of Hùng Kings are granted by different feudal dynasties (mostly from the 15th century and later), villages, hamlets and residential quarters worshipping the Hùng Kings are determined by the following criteria:</s>
+<s id="d1p5s3">First, villages, hamlets and residential quarters with worshipping sites dedicated to figures named as Hùng Kings;</s>
+<s id="d1p5s4">Second, villages, hamlets and residential quarters with  worshipping sites dedicated to the Hùng Kings under folk names (nicknames or names used because of certain taboos, etc.) such as ?t S?n Thánh V??ng, Vi?n S?n Thánh V??ng, ??t Ng?t Cao S?n and Cao S?n Thánh V??ng;</s>
+<s id="d1p5s5">Third, villages, hamlets and residential quarters with worshipping sites dedicated to the Hùng Kings following the two above-mentioned criteria which existed before 1945, although they might no longer have worshipping sites or their worshipping sites are now in ruins, are also considered in  the determination of the cultural space of Hùng Kings worship;</s>
+<s id="d1p5s6">Locations where there are worshipping sites under other names (such as ??c Thánh Sa L?c, ??i V??ng Thọ?ng ??ng Thọn, Hi?n Lang ??i V??ng, Hi?n Công ??i V??ng and ?ông H?i ??i V??ng) are also seen as worshipping sites dedicated to the Hùng Kings, and are named in a separate list to be investigated later.</s>
+<s id="d1p5s7">In general, villages, hamlets and residential quarters to be investigated during this inventory are located in a semi-mountainous region where the mountains drop from the southwest (Yên L?p, Thanh S?n, Thanh Thọy, Tam Nông, and C?m Khê districts) to the northeast (Lâm Thao District, Vi?t Trì City, Phù Ninh District, Phú Thọ Town, Thanh Ba, ?oan Hùng, and H? Hòa districts).</s>
+<s id="d1p5s8">Around Ngh?a L?nh stand low hills at the centre of the midlands.</s>
+<s id="d1p5s9">Thousands of years ago, this area played a very important economic, social and cultural role, being both the site of the natural development of a community and the site where the Hùng Kings established the capital city of V?n Lang.</s>
+<s id="d1p5s10">One can see that the direction in which the mountains fall – from northwest to southeast – is also the direction in which three major rivers flow – the Thao, the Lô, and the ?à – together contributing to the creation of fertile lands along their banks where communities of farmers developed and at the same time contributing to the formation of the delta.</s>
+<s id="d1p5s11">The main livelihoods of people living within this area have remained almost the same to this day – wet-rice cultivation and animal husbandry.</s>
+<s id="d1p5s12">Archeological evidence collected over the past 50 years shows that people of the ancient cultures of Phùng Nguyên, ??ng ??u, Gò Mun and ?ông S?n built houses, workshops and tombs in this area.</s>
+<s id="d1p5s13">From a geographical-cultural perspective, the Vi?t–M??ng people have a long history.</s>
+<s id="d1p5s14">The society was animistic, worshipping mountain gods, ancestors, tutelary gods and Buddhism.</s>
+<s id="d1p5s15">Historically, Phú Thọ Province lies within the area of settlement and cultural intersection between the countries of V?n Lang and Âu L?c.</s>
+<s id="d1p5s16">This area also served as a gate for exchange between the delta area, with the cultures of the northwest, and part of Vi?t B?c (North of Hanoi).</s>
+<s id="d1p5s17">Generations of inhabitants of this area had close political, economic, cultural and social relationships with each other.</s>
+<s id="d1p5s18">The area has a long history of formation  involving   many  important  events related  to  the establishment, development and protection of the country by the ancient Vi?t people together with other ethnic groups.</s>
+</p>
+<p id="d1p6">
+<s id="d1p6s1">Research Methods</s>
+<s id="d1p6s2">Research methods included interviews by questionnaire, in-depth interviews, focus-group interviews, recording oral histories, and statistics.</s>
+<s id="d1p6s3">The research was carried out in a participatory way with respect for community voices, with one of its aims being preservation of history.</s>
+<s id="d1p6s4">An interdisciplinary research approach (including bibliography, archeology, text studies, and museum studies) was also taken for analysis and comparison of different sources of information and determination of the subject of the investigation and inventory.</s>
+</p>
+<p id="d1p7">
+<s id="d1p7s1">Difficulties</s>
+<s id="d1p7s2">Over the long history of the area's development, because of natural geological changes and social and economic changes following different administrative structures, many place names have changed with old  names being replaced by new.</s>
+<s id="d1p7s3">Knowledgeable people are few, texts have not been transferred sustainably or systematically to younger generations, many administrative places have shifted or been extended, many belief practices and customs have degraded (especially in the period since 1945), and in many cases contemporary culture has supplanted traditional culture.</s>
+<s id="d1p7s4">Gaps have appeared in the generational transfer of traditional culture because of war and other historical-social conditions.</s>
+<s id="d1p7s5">On field trips to the localities, we noticed that many sites associated with the worship of Hùng Kings (communal halls, temples, Buddhist temples, shrines) had been destroyed or seriously damaged.</s>
+<s id="d1p7s6">There are also cases where temples/communal halls have been moved to new sites for restoration, and re- built with new techniques, forms and materials, and as a result have become religiously unattractive or irrelevant to their communities.</s>
+<s id="d1p7s7">In most of the places investigated, the cultural staff and commune managers are young people who have limited capacities and understandings of  traditional culture, do not understand or cannot meet standard requirements of cultural management, and are incapable of helping local people collect, investigate and preserve their heritage.</s>
+<s id="d1p7s8">As a result, many valuable heritage sites which were destroyed or damaged have not received the necessary attention for development of restoration plans or submission of requests for financial support from the authorities.</s>
+<s id="d1p7s9">Since 1996, most residential areas which in the past were villages and hamlets have been changed into numbered residential quarters (Residential Quarter No.1, No.2, No.3, etc.).</s>
+<s id="d1p7s10">Thus, the traditional names of many villages and hamlets which had existed for thousands years, were rooted deeply in the minds of local people and were closely associated with the characteristics and origins of each village/hamlet as well as many other traditional values have been eliminated.</s>
+<s id="d1p7s11">In addition, several large, densely populated villages/hamlets have also been divided into residential quarters.</s>
+<s id="d1p7s12">Now, only in residential quarters where worshipping sites are situated do local people pay much  attention to or know (at differing levels) about the worship.</s>
+<s id="d1p7s13">In other residential quarters, people are much less attached to the belief, and therefore their awareness and sense of responsibility have faded.</s>
+<s id="d1p7s14">In many villages, sites associated with Hùng Kings worship were destroyed (for different reasons) many decades ago, and the worshipping space in some villages/hamlets has been taken over for use by local authorities or individuals.</s>
+<s id="d1p7s15">Thus, in many places it is almost impossible to restore ancient belief activities – a great  loss to the culture.</s>
+<s id="d1p7s16">The worship of Hùng Kings is a cultural activity originating from a dynasty passed on in legends.</s>
+<s id="d1p7s17">All the figures associated with this ancient period over thousands of years of worship by common people have been molded and transformed according to diverse cultural layers and customs.</s>
+<s id="d1p7s18">herefore, even when they exist in the same worshipping space, sometimes it is very difficult  to name the main worshipped figure.</s>
+<s id="d1p7s19">In many places it is difficult to identify worshipped  figures  because  of  ambiguity  and transformation  (due  to hèm customs or perceptions) as well as replacement of figures (between Hùng Kings and related figures).</s>
+<s id="d1p7s20">Due to the limited time allocated to the inventory and limited number of professional staff, the work of data collection together with the community showed certain shortcomings.</s>
+<s id="d1p7s21">These shortcomings partly reflect in the results of the inventory and investigation, especially in the evaluation of typical expressions of the heritage and the system of ancient languages which are closely associated with the traditional festivals in particular and cultural activities of the villages/communes in general.</s>
+</p>
+<p id="d1p8">
+<s id="d1p8s1">Advantages</s>
+<s id="d1p8s2">During the time carrying out the inventory, the research group received a great deal of support from local authorities, district/commune cultural staff and village heads who worked to create favorable working conditions for the group.</s>
+<s id="d1p8s3">In particular, almost all the hamlet heads and commune cultural staff participated directly in organizing focus-group interviews in the localities, actively addressing issues raised during the interviews and contributing greatly to the production of results from the interviews.</s>
+<s id="d1p8s4">All the local people (especially the elderly people and members of the festival management board) either directly or indirectly participated  in providing information.</s>
+<s id="d1p8s5">They were enthusiastic and formed a consensus in  regard to the preservation, promotion and dissemination of Hùng Kings worship and festivals related to the Hùng Kings in their localities.</s>
+<s id="d1p8s6">Many elderly people provided the research group with valuable documents which individuals had collected, complied or translated and which serve well as references for the questionnaires.</s>
+<s id="d1p8s7">Support from members of the heritage site management board and association of elderly people in villages in organizing and facilitating interviews helped the research group a great deal in ensuring the quality of the inventory.</s>
+</p>
+<p id="d1p9">
+<s id="d1p9s1">Investigation–Inventory Results</s>
+<s id="d1p9s2">Given the above-mentioned advantages and surmounted difficulties, the research group achieved certain results.</s>
+<s id="d1p9s3">Documents and information provided  by the focus groups and by the questionnaires confirm the diversity, newness and systematicness of documentation and knowledge of Hùng Kings worship and festivals associated with the Hùng Kings in the past and the present.</s>
+<s id="d1p9s4">Cultural-historical heritage sites were identified in 12 districts, towns and cities (C?m Khê, ?oan Hùng, H? Hòa, Lame Theo, Phù Ninh, Tam Nông, Thanh Ba, Thanh S?n, Thanh Thọy and Yên L?p districts, Phú Thọ Town, and Vi?t Trì City) with 109 villages, hamlets and residential quarters being investigated, among which 46 villages and hamlets (in 29 communes, wards and towns) are home to cultural activities and festivals directly related to Hùng Kings worship, and have worshipping sites under the names of the original Hùng Kings or their 18 generations of descendants.</s>
+<s id="d1p9s5">These villages and hamlets with existing heritage sites directly associated with Hùng Kings worship and festivals are mostly situated in Lâm Thao District and Vi?t Trì City.</s>
+<s id="d1p9s6">The existence of a number of festivals directly associated with the worship of Hùng Kings in several villages and hamlets of C?m Khê District (Kh?ng T??c village), Lam Thao District (the two villages of Tr?o and Vi) and Vi?t Trì City (Hùng Lô village) with significant remnants (ponds, drill grounds of Hùng King troops, places where the Kings stopped to visit local people, places where the Kings celebrated the New Year together with villagers, places where the Kings taught people how to cultivate rice, etc.) and a number of ancient place names have provided important data, contributing to the success of the research on the culture and beliefs of the ancient Vi?t – M??ng people.</s>
+<s id="d1p9s7">Together with the above-mentioned sites, there are also 139 sites in 52 communes (76 villages or hamlets) of 12 districts worshipping Hùng Kings under names such as Cao S?n Thánh V??ng, ??t Ng?t Cao S?n, ?t S?n Thánh V??ng and Vi?n S?n Thánh V??ng.</s>
+</p>
+<p id="d1p10">
+<s id="d1p10s1">Specific Results from the Investigation-Inventory</s>
+<s id="d1p10s2">The data obtained from the research contain a great deal of information which can be divided into two main groups: quantitative data (obtained using quantitative research methods such as questionnaires and statistics) and qualitative data (obtained using ethnographical methods and oral history recording, etc.)These data reflect on: a.cultural and belief activities and festivals related to the Hùng Kings which took place in the past; b/ cultural and belief activities and festivals related to the Hùng Kings which take place today; c.chief characteristics of these cultural and belief activities; d.the condition of the tangible culture associated with the belief and festival activities; and, e.issues relating to the preservation and promotion of the cultural values of the belief practices and festivals associated with the Hùng Kings in particular and figures of the Hùng King period in general.</s>
+</p>
+<p id="d1p11">
+<s id="d1p11s1">Cultural and Belief Activities and Festivals in the Past</s>
+<s id="d1p11s2">Cultural and Belief Activities Places serving the belief and festival activities were gradually established in all villages and hamlets by local communities over a period of many hundreds of years, in the form of communal halls, temples and shrines, of which communal halls made up more than 90%.</s>
+<s id="d1p11s3">The inventory list shows the dense distribution and establishment of worshipping places related to the worship of Hùng Kings in Phú Thọ Province.</s>
+<s id="d1p11s4">In 46 villages and hamlets having worshipping sites under the direct name of the Hùng Kings there are 43 communal halls, 6 temples and 2 Buddhist temples.</s>
+<s id="d1p11s5">In 76 villages/hamlets having worshipping sites under the names of Cao S?n Minh V??ng, ??t Ng?t Cao S?n, ?t S?n Thánh V??ng or Vi?n S?n Thánh V??ng there are 99 communal halls, 15 temples, 18 shrines, and 7 Buddhist temples.</s>
+<s id="d1p11s6">According to the oral histories obtained from elderly people, in most villages/hamlets, before 1945, the worshipping sites dedicated to the Hùng Kings  in  particular  and  other  figures  in  Phú  Thọ  Province  in general were established  during one  or the  other of two  historical periods.</s>
+<s id="d1p11s7">Before  the  10th century, most of the worshipping sites (communal halls, temples, and shrines) were made of bamboo and with thatched roofs, while some were made in the form of a house on pillars to avoid predators and flooding.</s>
+<s id="d1p11s8">Since the Lý Dynasty, and especially under the Lê Dynasty (the 15th century), with the permission of local authorities and the court, people in Phú Thọ Province (as in many other places) mobilized the community to build big (both in terms of architectural structure and interior) worshipping sites in villages.</s>
+<s id="d1p11s9">People also organized large-scale sacred and solemn festivals.</s>
+<s id="d1p11s10">Besides paying attention to the sites through granting conferments and orders, feudal  governments  also gave permission for villages to restore worshipping sites in order to serve the belief activities, considering this a tool of the ruling apparatus  at  different levels.</s>
+<s id="d1p11s11">For the period after 1945, due to the limited knowledge of local authorities, and because of the weather and natural conditions, most worshipping  sites (90%) in Phú Thọ Province were destroyed or ran to ruin.</s>
+<s id="d1p11s12">The most serious destruction occurred in 1956–57, 1961 and 1975.</s>
+<s id="d1p11s13">Only since the 1990s have many of these worshipping sites been restored to serve the needs of  local cultural and belief activities.</s>
+<s id="d1p11s14">Due to economic conditions, most of the restored worshipping sites are smaller in scale and simpler in architecture than their originals.</s>
+<s id="d1p11s15">However, about 20% of the sites in these villages/hamlets have been completely destroyed, for various objective and subjective reasons.</s>
+<s id="d1p11s16">Only since the time of ??i M?i (Renovation) in Vietnam have rural communities had opportunities to improve their economy and enrich their culture by restoring traditional cultural practices.</s>
+<s id="d1p11s17">Having examined the real situation of the worshipping sites and taken into account community opinions, we see that most villages associated with the worship of the Hùng Kings in particular and  cultural and belief activities in general now need higher-level policy and economic support to restore or upgrade the worshipping sites in order to meet the short and long-term needs of the communities.</s>
+</p>
+<p id="d1p12">
+<s id="d1p12s1">Worshipping Altars</s>
+<s id="d1p12s2">In practice, it can be seen that of 181 communal halls and 15 Buddhist temples (of which 43 communal halls and 8 Buddhist temples are dedicated to the Hùng Kings) the focus of the altar arrangement is the worshipping tablet and the incense bowls.</s>
+<s id="d1p12s3">At some worshipping sites, there is also an additional altar for all gods.</s>
+<s id="d1p12s4">In general, the worshipping altars of the Hùng Kings are made in the form of ancestral altars like those which stand in the houses of most Vietnamese families.</s>
+<s id="d1p12s5">Taking Ngh?a L?nh Mountain as the center of Hùng Kings worship, the farther worshipping sites are from this center, the simpler their arrangements; they are not as complicated as the worshipping sites built by feudal regimes at the end of the Post-Lê Dynasty or during the Nguy?n  Dynasty.</s>
+</p>
+<p id="d1p13">
+<s id="d1p13s1">Offerings</s>
+<s id="d1p13s2">Offerings prepared for the rituals (rituals of opening the communal halls/temple gates, processions, rituals of closing the communal halls/temple gates) in most localities are quite similar to one another.</s>
+<s id="d1p13s3">They include xôi (cooked sticky rice), o?n (cake from cooked sticky rice), fruits, flowers, wine, votive papers, salt, boiled chickens (ideally large, handsome roosters), raw pork (ideally from a black pig), ch?ng cake and dày cake (offered by people of Lâm Thao District and Vi?t Trì City).</s>
+<s id="d1p13s4">n addition, some villages (?ào Xá village in Thanh Thọy District, B?n ?á village in C?m Khê District) include carp in their offerings.</s>
+<s id="d1p13s5">In Tr?o and Vi villages (Lâm Thao District) and Hùng Lô village (Vi?t Trì City), people give whole pigs (ideally black pigs), usually already killed and cleaned, along with some of their bristles and blood, as offerings.</s>
+<s id="d1p13s6">Some villages/hamlets of H? Hòa, ?oan Hùng, and Yên L?p districts require that among the offerings there should be meat from a black buffalo.</s>
+<s id="d1p13s7">It is stipulated in village conventions that all participants in the preparation of offerings – for example, in the selection of roosters, pigs, leaves for the cakes, etc.</s>
+<s id="d1p13s8">should be carefully chosen.</s>
+<s id="d1p13s9">All the steps in making the cakes, killing the roosters or the pigs, etc.</s>
+<s id="d1p13s10">should also be taken very carefully.</s>
+<s id="d1p13s11">For offerings made from meat (black pigs, roosters, buffalos, etc.), strict rules apply to all steps.</s>
+<s id="d1p13s12">For example, families chosen to raise the pigs should be happy, well-off, respected by other villagers and not in mourning; the pigs should be kept in open, clean pigsties; containers for their food should be clean and new (the families should buy new bowls and make new pigsties); their food should be clean and  delicious.</s>
+<s id="d1p13s13">In some villages, two or three families are chosen to raise the  animals.</s>
+<s id="d1p13s14">When the day of the festival draws near, the entire village will select the best of several animals for the offerings.</s>
+<s id="d1p13s15">When the pigs are killed, the blood should be red; if the blood is not bright red, it is considered bad luck.</s>
+<s id="d1p13s16">When the rooster is killed and cleaned, its skin should not be torn.</s>
+<s id="d1p13s17">The rooster must not be put into boiling water, but hung on a stick above the pot, and people must pour boiling water over it until it is cooked.</s>
+<s id="d1p13s18">In regard to fruits, in the past, villagers chose those without pips, and they could pick them only in the land where they had settled down and lived.</s>
+<s id="d1p13s19">They were not allowed to take fruits from other places.</s>
+<s id="d1p13s20">Villagers believe that if these unwritten rules were violated, people would have bad luck, their livestock would fall sick, their crops would fail, etc.</s>
+<s id="d1p13s21">In addition to offerings common to all villages/hamlets worshipping  the Hùng Kings, unique features of offerings prepared by certain villages may also be observed.</s>
+<s id="d1p13s22">For example, in the offerings prepared by C? Tích village (Hy C??ng commune, Vi?t Trì City), three branches of young rice are laid on the offering tray together with cooked sticky rice and boiled rooster, and a wish for good weather and good crops is made.</s>
+<s id="d1p13s23">In the rituals of Vi and Tr?o villages of Hùng S?n Town, Lâm Thao District, among the usual offerings there must be a votive black elephant and two horses (one pink and the other white).</s>
+<s id="d1p13s24">These animals are made of bamboo, covered with paper and life-size.</s>
+<s id="d1p13s25">A small bamboo stick is tied to a side of each of these animals to serve as a pot where incense sticks can be kept until the last day of the festival when they are burned.</s>
+<s id="d1p13s26">It is believed that these animals serve as means of transport for the Hùng Kings and the gods so that they can go to people facing difficulties such as strong winds, flood, disease, etc.</s>
+<s id="d1p13s27">(See also Bùi Quang Thanh, “Offerings to Hùng Kings”.</s>
+<s id="d1p13s28">Vietnam Academy of Social Sciences, 6 (146) – 2011).</s>
+</p>
+<p id="d1p14">
+<s id="d1p14s1">Selection of the Ritual Heads</s>
+<s id="d1p14s2">In the past, the ritual head for each festival was also selected very carefully.</s>
+<s id="d1p14s3">In feudal times (before 1945), ritual heads were selected by local authorities.</s>
+<s id="d1p14s4">Later, this position usually came to be determined by village elders and representatives of village clans.</s>
+<s id="d1p14s5">A person selected to be a ritual head should meet the following criteria: male, over 50 years old, with sound knowledge of the ritual procedures, trusted and respected by his community, and not in the mourning period.</s>
+<s id="d1p14s6">When a person has been selected to be the ritual head, he should observe certain unwritten rules such as avoiding participation in  funerals, avoiding hard work and avoiding sexual intercourse to keep his body clean.</s>
+<s id="d1p14s7">He must practice the ritual gestures regularly so that when the  time comes he can perform them gracefully and in conformity with the ritual group.</s>
+<s id="d1p14s8">If he makes a mistake, he will be punished by his village.</s>
+<s id="d1p14s9">The ritual head from the year before is responsible for instructing him during his practice period.</s>
+<s id="d1p14s10">In addition, the person selected to be the ritual head should be able to afford the organization of the festival, from inviting different troupes (chèo plays, ca trù singing, and xoan singing, etc.) to inviting his relatives to the festival, from the day of opening to the day of closing.</s>
+<s id="d1p14s11">For the ritual group (??i t?) the criteria are less strict.</s>
+<s id="d1p14s12">Ritual group members must be middle-aged, respected by the community and not in the mourning period.</s>
+<s id="d1p14s13">The ritual head manages the operation of the ritual group.</s>
+<s id="d1p14s14">People who know the ritual procedures well (usually from the ritual group of the year before) also help coach the ritual group for a time.</s>
+</p>
+<p id="d1p15">
+<s id="d1p15s1">The Traditional Festivals</s>
+<s id="d1p15s2">According to the oral histories of elders in all 196  villages/hamlets, before 1945 villages held the festivals each year on differing scales, depending on economic and social conditions and specific village customs.</s>
+<s id="d1p15s3">In the past, two types of festivals took place every year:</s>
+<s id="d1p15s4">The inter-canton festival (the festival jointly organized by several villages in a canton or jointly organized by villages in a customary friendship relationship, worshipping the same communal god);</s>
+<s id="d1p15s5">The festival held in each village/hamlet at a different time (in this case, the people of village divisions (giáp) played a vital role).</s>
+<s id="d1p15s6">Most of the festivals took place in the first lunar month or in the eighth and ninth lunar months.</s>
+<s id="d1p15s7">The organizer of the festivals: As stipulated by the feudal authorities, before 1945 the Committee of Mandarins at canton level directly organized and managed festivals in which the main worshipped figures had been recognized and given conferment by the court.</s>
+<s id="d1p15s8">In regard to village festivals, various giáp in the villages cooperated in organizing the festivals, with each giáp taking responsibility for specific tasks assigned by the Committee of Village Elders.</s>
+<s id="d1p15s9">Funds for festival organization came from two sources: proceeds from fields given to the temple (by local authority or by the court), and donations by men of different giáp participating in the festivals.</s>
+<s id="d1p15s10">Festival procedure: Most focus-group interviews came to the conclusion that festival procedure in individual villages in particular and throughout Phú Thọ Province in general was very complicated and diverse.</s>
+<s id="d1p15s11">Currently there are no written texts (epitaphs, legends, village customary laws, etc.) in any villages/hamlets stipulating festival procedure.</s>
+<s id="d1p15s12">Today festivals are organized according to procedures passed down from earlier generations.</s>
+<s id="d1p15s13">However, certain procedural elements are common throughout the province.</s>
+<s id="d1p15s14">In  most cases, the procession goes from the shrine to the communal hall or temple; or goes from the communal hall or temple around the village and returns to the starting point.</s>
+<s id="d1p15s15">The order of the procession groups is also consistent from village to village: The group of the dancing dragon comes first, then the group carrying the gods’ flags, then the palanquin, eight musical instruments, two rows of eighttreasures and weapons, the incense palanquin, the chair and tablet palanquin, the ritual group, and finally the villagers.</s>
+</p>
+<p id="d1p16">
+<s id="d1p16s1">Belief activities and folk games</s>
+<s id="d1p16s2">In almost all the sacred spaces of Hùng Kings worship, local communities organize various cultural activities in which unique symbols representing specific characteristics of habitation, aesthetic style, and perceptions of nature and society are displayed.</s>
+<s id="d1p16s3">These activities include:Belief activities associated with fertility rites, in which symbols of linga and yoni are worshipped and acts of sexual intercourse are mimicked in a game named tùng rí; Belief activities associated with wet-rice cultivation, in which water from the middle of a river is brought to the temple to serve as a worship object, and young rice plants are also placed on the altar; Belief activities in which the career and merits of the worshipped person are enacted: the gestures of the King when he taught people how to cultivate rice and hunt; the gestures of the Princess when she taught people how to raise silkworms and weave fabric.</s>
+<s id="d1p16s4">Belief activities associated with the explanation of certain phenomena in nature and society: why people howl to call/find each other at night when lost in the forest; how the King taught people to make blood pudding when killing pigs.</s>
+<s id="d1p16s5">Belief activities associated with unique inventions from the earliest days of the country’s establishment: how the King taught people how to broil meat after a hunt, perform martial arts, use the bow and arrow, and establish villages close to one another so that they could help and protect one another.</s>
+<s id="d1p16s6">In most regions, especially in isolated villages, people perform similar prayer rituals, such as praying for wealth, for favorable weather, for peace, for a son, etc.</s>
+<s id="d1p16s7">in their worship of the Hùng Kings.</s>
+<s id="d1p16s8">In addition to rituals and belief activities performed in the sacred space of the worship of Hùng Kings and other related characters, folk games associated with national memories and the community’s perceptions of everyday life's realities and aesthetic ideals are played by participants of various ages.</s>
+<s id="d1p16s9">Some of these folk games are popular and common to all villages (such as blind-man’s-buff, tug of war, flag catching, swimming competition, and catching ducks in pond or river), and some are unique and specific to certain villages in Phú Thọ Province (such as pig encirclement, trò trám, a fertility game, c??p ph?t, a game of competing to catch a ball, tùng rí, etc.).</s>
+</p>
+<p id="d1p17">
+<s id="d1p17s1">Belief Practice and Festivals in Contemporary Society</s>
+<s id="d1p17s2">From the time of the August Revolution of 1945 until the end of the 20th century, for different reasons and because of different historical circumstances, most of the places serving belief practices such as temples, communal halls and shrines were destroyed or badly damaged, and folk festivals were not organized.</s>
+<s id="d1p17s3">In most villages, people quietly prepared offerings and burnt incense to worship the Hùng Kings in particular and other related characters in general at home or in their family worshipping halls.</s>
+<s id="d1p17s4">Thus, serious damage was done to these communities' tangible and intangible culture.</s>
+<s id="d1p17s5">A great number of valuable cultural heritages have been lost, ruined or forgotten.</s>
+<s id="d1p17s6">Gaps in the passing on of traditional culture between generations have had negative impacts on Hùng Kings worshipping communities' social and cultural life.</s>
+<s id="d1p17s7">From the late 1980s on, particularly from 1995 until today, in the many villages in 12 districts worshipping the Hùng Kings in Phú Thọ Province, 50% of sites have been restored (after 1990), 10% have been repaired, 20% are in danger of becoming ruins, and 20% have already become ruins.</s>
+<s id="d1p17s8">Before 1945, most villages worshipping the Hùng Kings regularly organized traditional festivals at different levels.</s>
+<s id="d1p17s9">After nearly half a century  of interruption, from the late 1980s on, these traditional festivals have been restored.</s>
+<s id="d1p17s10">The belief and its associated cultural organizations have  been permitted to operate again.</s>
+<s id="d1p17s11">In villages, the elderly (50 years and older) have played an important role in restoring and directly participating in festivals.</s>
+<s id="d1p17s12">Funds for festival organization are mainly donated by local people.</s>
+</p>
+<p id="d1p18">
+<s id="d1p18s1">Differences between Today's Festivals and Festivals in the Past</s>
+<s id="d1p18s2">The duration of festivals today is much shorter than in the past (now they mainly take place over one or two days).</s>
+<s id="d1p18s3">The processes of task assignment, budget management and organization of the festival are now discussed openly, and local people can share their opinions on all relevant matters.</s>
+<s id="d1p18s4">All people of villages/hamlets where there are festivals have equal opportunity to participate in the annual or main festival (in accordance with regulations prescribed by festival management boards or local authorities), from contributing human resources to receiving material and moral benefits from the festival.</s>
+<s id="d1p18s5">The festival is organized by the site management board which manages communal halls/ temples under the direct control of the local authority.</s>
+<s id="d1p18s6">Funds for festival organization are partly given by the local authority if possible.</s>
+<s id="d1p18s7">However, in most cases, they are donated by the community.</s>
+<s id="d1p18s8">Common temple land from which benefits may be saved for festival organization as they were under feudal society no longer exists.</s>
+<s id="d1p18s9">Because of issues of public security and changes in belief and other cultural practices, festivals now are not as boisterous as in the past.</s>
+<s id="d1p18s10">Ritual forms and offerings have also been simplified and the meanings of the worship objects have also been lost to some extent.</s>
+<s id="d1p18s11">The process of preparation of offerings has been made simpler; complicated details relating to selection and arrangement of offerings as practiced in the past are now foregone.</s>
+<s id="d1p18s12">Certain parts of the ritual ceremony which are too complicated or long have been removed or shortened.</s>
+<s id="d1p18s13">Belief activities with mysterious meanings and amulets are not practiced anymore.</s>
+<s id="d1p18s14">Further, certain cultural activities with fertility-related meanings have not been restored.</s>
+<s id="d1p18s15">All members of local communities participate in “luck food” feasts, and all are equal in festival activities.</s>
+<s id="d1p18s16">During the processes of preparation and organization of the festival, the community and the local authority coordinate closely with each other to ensure security and legal issues are dealt with following guidelines from the local authority.</s>
+</p>
+<p id="d1p19">
+<s id="d1p19s1">Main Features of the Worship of Hùng Kings in Phú Thọ</s>
+<s id="d1p19s2">Most Hùng Kings worshipping villages perform rituals associated with different annual festivals: Lunar New Year, First Full Moon, the festival of ploughing, the festival of harvest, etc.</s>
+<s id="d1p19s3">Perhaps the most remarkable of these is the ritual praying for favorable weather, and good luck in business, life and health.</s>
+<s id="d1p19s4">Offerings are very important.</s>
+<s id="d1p19s5">They are carefully selected and include at least three things – a rooster, a black pig and fruits.</s>
+<s id="d1p19s6">To a certain extent, ancient elements associated with the worship of the Hùng Kings remain, expressing themselves in festival performances and folk games associated with ancient legends.</s>
+<s id="d1p19s7">The festival is diverse in form and sacred in content and belief practice, displaying people’s profound awareness of their origins and their history of establishing and protecting the country.</s>
+<s id="d1p19s8">Roles played in the festival are strictly controlled, requiring actors to be strong both in body and in mind.</s>
+</p>
+<p id="d1p20">
+<s id="d1p20s1">The System of Cultural Heritage Sites associated with Hùng Kings Worship:</s>
+<s id="d1p20s2">Tangible cultural heritage in villages: The inventory shows that most worshipping sites which are a hundred years old or older have been destroyed.</s>
+<s id="d1p20s3">The few which remain are in very bad condition.</s>
+<s id="d1p20s4">Most of the common land which in the past belonged to the worshipping sites has been encroached upon (for example in villages of Đoan Hùng, Hạ Hòa and Yên Lập districts).</s>
+<s id="d1p20s5">The surrounding facilities have also been destroyed, changed or used for other purposes, etc.</s>
+<s id="d1p20s6">Many heritage sites have not received proper attention from cultural management boards.</s>
+<s id="d1p20s7">Some sites have been encroached upon or used for non- belief purposes.</s>
+<s id="d1p20s8">According to the statistics of the local authority, at present, in 46 villages/hamlets directly practicing the worship of Hùng Kings, 80% of the ponds associated with this belief have been either filled up or narrowed to serve different purposes.</s>
+<s id="d1p20s9">any ponds, shrines and temples associated with heritage sites have disappeared: e.g. he place believed to be the drill ground during the time of the Hùng Kings in Tiên Kiên commune (Lâm Thao), Đạng communal hall in Xuân Viên commune (Yên Lập), Đanh communal hall in Chính Công commnune, Tân Tiến communal hall in Vĩnh Chân commune (Hạ Hòa).</s>
+<s id="d1p20s10">Some sites which in the past were spacious worshipping sites have been destroyed, and currently there are no fund for their restoration (e.g.Cả communal hall in Hùng Sơn town, Lâm Thao district; the cluster of sites in Đanh hamlet, Chính Công commune, Hạ Hòa).</s>
+<s id="d1p20s11">Of the sites that have been restored in the last decade by local communities, none can be compared with its original in terms of scale and architecture.</s>
+<s id="d1p20s12">In most of these new sites, the interior of the worshipping space is still simple and does not meet traditional requirements of worship.</s>
+<s id="d1p20s13">The system of intangible cultural heritage in villages/hamlets: So far, most of the villages/hamlets in Phú Thọ Province which have sites associated with Hùng Kings worship do not keep documents of legends, festival information, folk games or activities related to this belief.</s>
+<s id="d1p20s14">In some villages, elderly people try to keep records and translate the legends  and parallel sentences which have  been recorded at local heritage sites.</s>
+<s id="d1p20s15">However, this source of information has yet to be properly drawn on.</s>
+<s id="d1p20s16">At some sites, there are collections of books in Sino-Vietnamese which have not yet been translated into modern Vietnamese, so that a great deal of information about traditional culture is still unknown and inaccessible to younger generations of local people.</s>
+<s id="d1p20s17">Passing on Heritage between Generations: Those with the best knowledge of the procedures and contents of festivals are the elderly people who have directly participated in past festivals and performances.</s>
+<s id="d1p20s18">The number of these people is small; however, some of them are now members of festival management boards and heritage site management boards in villages/hamlets.</s>
+<s id="d1p20s19">The largest group of people participating in the rituals is made up of middle-aged men, aged 50 and older.</s>
+<s id="d1p20s20">For certain festival activities, the largest group is made up of young people, aged from 15 to 25.</s>
+<s id="d1p20s21">In the inventory questionnaires, 100% of respondents confirmed that younger generations – children of families living in the villages – are enthusiastic and eager to participate in certain festival activities, but are not eager to carry out ritual practices.</s>
+<s id="d1p20s22">Interviews with children participating in the festival “Procession of the Kings to the village for Tết” (Hùng Sơn town) and “Meeting the Kings for the spring in villages” (Tiên Kiên commune) at the end of 2010 and beginning of 2011, indicated that all were proud to have been selected and eager to participate in the festivals without being paid, given that they are allowed to by their families and schools.</s>
+<s id="d1p20s23">However, because of modern social circumstances and time restrictions, not all young people actively look  for information about their nation’s origins or the aspects of their culture preserved and performed in local festivals.</s>
+<s id="d1p20s24">Most of the legends, copies of the Kings’ family tree, epitaphs and other sources of information in Sino-Vietnamese which are kept in villages have not yet been translated or disseminated, nor have most of the parallel sentences and words inscribed on horizontal lacquered boards in communal halls, temples and Buddhist temples, or the many books in Sino-Vietnamese.</s>
+</p>
+<p id="d1p21">
+<s id="d1p21s1">Issues Relating to the Preservation and Promotion of Heritage Values</s>
+<s id="d1p21s2">The Situation and Positive Impact of the Heritage</s>
+<s id="d1p21s3">Most of the belief and cultural activities associated with the worship of Hùng Kings (under different names) in 12 districts/town/cities of Phú Thọ Province have	already	received attention from	local communities, and worshipping sites and festivals have been restored.</s>
+<s id="d1p21s4">However, economic difficulties together with other objective and subjective circumstances have meant that the number of restored sites is still small.</s>
+<s id="d1p21s5">Examples can be given in poor districts such as Hạ Hòa, Thanh Ba, Yên Lập, and Thanh Sơn.</s>
+<s id="d1p21s6">Also, because the belief practice was prohibited and therefore did not receive any attention from local authorities or local people for half a century, many sites have been encroached upon to differing degrees.</s>
+<s id="d1p21s7">Many of the objects used at rituals or for interior decoration are broken.</s>
+<s id="d1p21s8">Meanwhile, communities need  ritual practice.</s>
+<s id="d1p21s9">In most localities, costs for the restoration of worshipping sites have been covered by communities.</s>
+<s id="d1p21s10">Examples can be given in Cẩm Khê and Phù Ninh districts and Việt Trì City.</s>
+<s id="d1p21s11">Among villagers today, middle-aged people show the highest level of awareness of the necessity of heritage preservation, as evidenced by their contributions to preservation projects.</s>
+<s id="d1p21s12">If in the second half of the 20th century elderly people were the largest group practicing Hùng Kings  worship,  then since the 1990s more and more young people have been participating in worshipping activities, both male and female.</s>
+<s id="d1p21s13">Particularly in localities with many traditional festivals such as Cẩm Khê, Lâm Thao, Thanh Thuỷ, and Phù Ninh districts and Việt Trì City, people of widely different groups and backgrounds participate in festivals.</s>
+<s id="d1p21s14">In the last ten years, several localities have restored festival activities worshipping the Hùng Kings (Đào Xá commune in Thanh Thuỷ district, Hùng Lô commune in Việt Trì City, Khổng Tước commune in Cẩm Khê district, Vi and Trẹo villages in Hùng Sơn town and villages in Tiên Kiên commune, Lâm Thao district, etc.), thus helping younger generations understand and learn more about traditional values, their nation’s history, and preservation of traditional values.</s>
+<s id="d1p21s15">The survey of villages where festivals worshipping Hùng Kings are held in particular and village festivals in general shows that local authorities and cultural  management  boards  at  different  levels  (but  especially  at commune level) have directly participated in and taken responsibility for organizing, managing and monitoring all steps of the festivals, and that in this respect local people are satisfied with local authorities at commune and village level.</s>
+<s id="d1p21s16">This is also evidence of the consensus which has created sustainable conditions for the preservation of the festivals, bringing a positive influence upon the exploitation of the festivals’ values and meanings.</s>
+<s id="d1p21s17">As a first step, the local authority has co-operated with the community in accordance with the principles of socialization in management in order to preserve and exploit the heritage site’s values, and restore the heritage sites as required in each specific case, meeting the community’s needs in belief  practice.</s>
+<s id="d1p21s18">90% of survey respondents agreed with the work done by the local authority during restoration and preservation of festivals associated with the worship of Hùng Kings.</s>
+<s id="d1p21s19">Possible Risks for the Heritage Sites:</s>
+<s id="d1p21s20">95% of survey discussion participants saw weaknesses and limitations in various aspects of the heritage preservation: namely, in collection of related information, and in historical recording of the worship and procedures of local traditional festivals.</s>
+<s id="d1p21s21">The number of people who know Sino-Vietnamese has decreased significantly; in some localities today, no one knows this language.</s>
+<s id="d1p21s22">Most of the knowledge of festival procedures, content, activities and performance (palanquin procession, folk games, etc.) has only been passed on orally.</s>
+<s id="d1p21s23">Some elderly people have been trying to record this kind of information.</s>
+<s id="d1p21s24">Mainly, however, they do it spontaneously and subjectively.</s>
+<s id="d1p21s25">The information recorded has not been discussed carefully and has not been disseminated widely in the community.</s>
+<s id="d1p21s26">This has led to the gradual loss of this source of intangible cultural heritage which was invented and practiced in the past and to loss of the unique local identity associated with it.</s>
+<s id="d1p21s27">100% of discussion participants regarded the local authority’s weakness at various levels in managing the processes of information collection, recording and disseminating relevant information to members of the community as one of the causes of the loss of heritage site values.</s>
+<s id="d1p21s28">90% of discussion participants believed that the local authority was not active enough or creative enough in widening its network and mobilizing resources in society for the preservation and exploitation of cultural heritage in the locality.</s>
+<s id="d1p21s29">100% of discussion participants suggested that the local authority should improve its capacity in management so that the Law on Cultural Heritage could be implemented in practice and made to meet the needs of cultural heritage preservation in each village/hamlet.</s>
+<s id="d1p21s30">As stated by some representatives of village heritage management boards, one of the reasons that heritage sites had been neglected and their ecological- human environment negatively affected was that the people tasked with taking care of the sites (temple guards, ritual heads, members of the heritage management boards, etc.) were not paid for their service.</s>
+<s id="d1p21s31">Cultural management at various levels focuses largely on drawing up and disseminating  administrative guidelines and organizing activities to disseminate government policies.</s>
+<s id="d1p21s32">Cultural management workers are not proactive in making long-term plans for the preservation and exploitation of cultural heritage values in the localities.</s>
+<s id="d1p21s33">Most of the cultural management staff working for the Department of Culture and Information at district level or commune/ward level are young people with limited knowledge of local traditional culture.</s>
+<s id="d1p21s34">Therefore, their management is not effective and cannot meet the community’s needs in preservation and exploitation of cultural heritage.</s>
+<s id="d1p21s35">In practice, coordination between schools and the community in the preservation of cultural heritage in villages is weak.</s>
+<s id="d1p21s36">The relevant propaganda does not seem to be very effective.</s>
+<s id="d1p21s37">In the Year 6 Textbook on Linguistics and Culture, the section introducing legends and traditional festivals associated with the period of Hùng Kings and the nation’s origin is quite short.</s>
+<s id="d1p21s38">In some places, the local authority and the community disagree on the values of their cultural heritage.</s>
+<s id="d1p21s39">For example, in Xuân Viên commune, Yên Lập district, the local authority currently is withholding approval of the restoration of worship places which had existed in the past but were destroyed in the 1970s, arguing that it does so to fight superstition.</s>
+<s id="d1p21s40">The community is willing to contribute money to restore these heritage sites which in the past were part of the grand procession in the commune’s traditional festival.</s>
+<s id="d1p21s41">However, the local authority has not given its approval for the restoration, and so the people of Xuân Viên commune must practice their belief in the neighboring commune.</s>
+<s id="d1p21s42">Property violation and encroachment occurs at many sites of Hùng Kings worship, due to either bad land use management or bad cultural management, illegally or with the permission of the local authority.</s>
+<s id="d1p21s43">in addition, the local authority in some places also allows people to destroy heritage sites to use the land for other purposes.</s>
+<s id="d1p21s44">Most discussion participants suggested that the authorities at various levels should pay more attention to groups of successful local businessmen who wish to fund the restoration of their local cultural heritage.</s>
+<s id="d1p21s45">This report was written by Associate Professor, Dr.Bùi Quang Thanh Head of the Inventory group of the Worship of Hùng Kings</s>
+</p>
+</div>
+<div id="d2">
+<head>LIST OF VILLAGES FOR HÙNG KINGS WORSHIP IN PHÚ THỌ PROVINCE</head>
+<p id="d2p1">
+<s id="d2p1s1">No.</s>
+<s id="d2p1s2">Place</s>
+<s id="d2p1s3">Hamlet/Village/Residential quarter</s>
+<s id="d2p1s4">Commune/Ward/Township</s>
+<s id="d2p1s5">District</s>
+<s id="d2p1s6">Thượng Tinh Xá Hamlet</s>
+<s id="d2p1s7">Thanh Xá</s>
+<s id="d2p1s8">THANH BA</s>
+<s id="d2p1s9">Tinh Xá Hamlet</s>
+<s id="d2p1s10">Lăng Village</s>
+<s id="d2p1s11">Thái Ninh</s>
+<s id="d2p1s12">Đông Thượng Hamlet</s>
+<s id="d2p1s13">Đông Thành</s>
+<s id="d2p1s14">Đối Đen Village</s>
+<s id="d2p1s15">Đông Lĩnh</s>
+<s id="d2p1s16">2Thượng Hamlet</s>
+<s id="d2p1s17">Khải Xuân</s>
+<s id="d2p1s18">Lũng Village</s>
+<s id="d2p1s19">Võ Lao</s>
+<s id="d2p1s20">Chùa Village</s>
+<s id="d2p1s21">Quản Dương Hamlet</s>
+<s id="d2p1s22">Lương Lỗ</s>
+<s id="d2p1s23">Quán Hamlet</s>
+<s id="d2p1s24">Quán Lương Hamlet</s>
+<s id="d2p1s25">Residential quarter 16 (Mạo Phổ Hamlet)</s>
+<s id="d2p1s26">Residential quarter 2</s>
+<s id="d2p1s27">Quảng Nạp</s>
+<s id="d2p1s28">Residential quarter 3</s>
+<s id="d2p1s29">Residential quarter 4 (Ngoài Hamlet)</s>
+<s id="d2p1s30">Võ Village (Đồng Lạn Hamlet)</s>
+<s id="d2p1s31">Vũ Yển</s>
+<s id="d2p1s32">Sấu Village (Hoàng Cương Hamlet)</s>
+<s id="d2p1s33">Hoàng Cương</s>
+<s id="d2p1s34">Giuồng Village</s>
+<s id="d2p1s35">Mạn Lạn</s>
+<s id="d2p1s36">Vàng Village</s>
+<s id="d2p1s37">Yển Khê</s>
+<s id="d2p1s38">Nghĩa Village</s>
+<s id="d2p1s39">Ngăn Village</s>
+<s id="d2p1s40">Đại An</s>
+<s id="d2p1s41">Tân Thân Hamlet</s>
+<s id="d2p1s42">Yên Nội</s>
+<s id="d2p1s43">Lem Village</s>
+<s id="d2p1s44">Phương Trà Village</s>
+<s id="d2p1s45">Liên Phương</s>
+<s id="d2p1s46">Xuân Áng Village</s>
+<s id="d2p1s47">Hậu Bổng</s>
+<s id="d2p1s48">Đan Village (Residential quarter 1).</s>
+<s id="d2p1s49">Đan Hòa</s>
+<s id="d2p1s50">Vô Tranh Village</s>
+<s id="d2p1s51">Võ Tranh</s>
+<s id="d2p1s52">Cầu Xây Village</s>
+<s id="d2p1s53">Ấm Hạ</s>
+<s id="d2p1s54">Phú Vĩnh Village</s>
+<s id="d2p1s55">Bằng Giã</s>
+<s id="d2p1s56">Bến Village</s>
+<s id="d2p1s57">Đanh Village</s>
+<s id="d2p1s58">Chính Công</s>
+<s id="d2p1s59">Trường Thiên Hamlet</s>
+<s id="d2p1s60">Vĩnh Chân</s>
+<s id="d2p1s61">Tân Tiến Hamlet</s>
+<s id="d2p1s62">Tân Lập Hamlet</s>
+<s id="d2p1s63">Minh Tiến</s>
+<s id="d2p1s64">ĐOAN HÙNG</s>
+<s id="d2p1s65">Phú Nham Hamlet</s>
+<s id="d2p1s66">Phú Thứ</s>
+<s id="d2p1s67">Vĩnh Lại Hamlet</s>
+<s id="d2p1s68">Hùng Quan</s>
+<s id="d2p1s69">Kê Hamlet</s>
+<s id="d2p1s70">Phúc Lai</s>
+<s id="d2p1s71">Lê Hùng Hamlet</s>
+<s id="d2p1s72">Sóc Đăng</s>
+<s id="d2p1s73">Đình Cả Hamlet</s>
+<s id="d2p1s74">Tiên Sơn</s>
+<s id="d2p1s75">Đại Hộ Village</s>
+<s id="d2p1s76">Đại Nghĩa</s>
+<s id="d2p1s77">Đám Hamlet</s>
+<s id="d2p1s78">Chí Đám</s>
+<s id="d2p1s79">Ngọc Tân Hamlet</s>
+<s id="d2p1s80">Ngọc Quan</s>
+<s id="d2p1s81">Đồng Bích Village</s>
+<s id="d2p1s82">Hùng Long</s>
+<s id="d2p1s83">Đồng Kệ Hamlet (Đồng Kệ Village)</s>
+<s id="d2p1s84">Đồng Cam</s>
+<s id="d2p1s85">CẨM KHÊ</s>
+<s id="d2p1s86">Vực Câu Hamlet</s>
+<s id="d2p1s87">Tiên Lương</s>
+<s id="d2p1s88">Mỹ Đức Hamlet</s>
+<s id="d2p1s89">Quyết Tiến Hamlet</s>
+<s id="d2p1s90">Sâu Village</s>
+<s id="d2p1s91">Tuy Lộc</s>
+<s id="d2p1s92">Vực Cầu Hamlet (Residential quarter 9)</s>
+<s id="d2p1s93">Sông Thao Township</s>
+<s id="d2p1s94">Đông Viên Village (Residential quarter 4)</s>
+<s id="d2p1s95">Gọ Village Phùng Xá</s>
+<s id="d2p1s96">Cầu Ngòi Village</s>
+<s id="d2p1s97">Cấp Dẫn</s>
+<s id="d2p1s98">Đoài Village</s>
+<s id="d2p1s99">Thanh Nga</s>
+<s id="d2p1s100">Gò Làng Village (Residential quarter 4)</s>
+<s id="d2p1s101">Sơn Tình</s>
+<s id="d2p1s102">Gò Village (Residential quarter 6 - 7)</s>
+<s id="d2p1s103">Khổng Tước Hamlet – Chùa Village(Residential quarter 6)</s>
+<s id="d2p1s104">Phượng Vỹ</s>
+<s id="d2p1s105">Trình Khúc Hamlet</s>
+<s id="d2p1s106">Văn Khúc</s>
+<s id="d2p1s107">Ô Đà Hamlet</s>
+<s id="d2p1s108">Thạch Đê Village (Residential quarter 3)</s>
+<s id="d2p1s109">Hiền Đa</s>
+<s id="d2p1s110">Bến Đá Village (Residential quarter 5)</s>
+<s id="d2p1s111">Chương Xá</s>
+<s id="d2p1s112">Hamlet Quyết Tiến</s>
+<s id="d2p1s113">Tuy Lộc</s>
+<s id="d2p1s114">Đình Village (Residential quarter 7)</s>
+<s id="d2p1s115">Đồng Luận</s>
+<s id="d2p1s116">THANH THỦY</s>
+<s id="d2p1s117">Đào Xá Hamlet (Residential quarter 5)</s>
+<s id="d2p1s118">Đào Xá</s>
+<s id="d2p1s119">Phương Giao (Residential quarter 12-13)</s>
+<s id="d2p1s120">Hạ Bì Trung</s>
+<s id="d2p1s121">Xuân Lộc</s>
+<s id="d2p1s122">Kim Đức Village (Residential quarter 6)</s>
+<s id="d2p1s123">Kim Đức</s>
+<s id="d2p1s124">VIỆT TRÌ city</s>
+<s id="d2p1s125">Kim Đái Hamlet (Residential quarter 3)</s>
+<s id="d2p1s126">Thét Village (Residential quarter 8)</s>
+<s id="d2p1s127">Lâu Thượng</s>
+<s id="d2p1s128">Trưng Vương ward</s>
+<s id="d2p1s129">Hòa Bình 1 Hamlet (Residential quarter 7)</s>
+<s id="d2p1s130">Bến Gót ward</s>
+<s id="d2p1s131">Hòa Bình 2 Hamlet</s>
+<s id="d2p1s132">Giải Village (Hồng Hải Village)</s>
+<s id="d2p1s133">Minh Nông ward</s>
+<s id="d2p1s134">Village Từ Mõ (Residential quarter 2)</s>
+<s id="d2p1s135">Hùng Lô Commune</s>
+<s id="d2p1s136">Phú Nang (Residential quarter 4)</s>
+<s id="d2p1s137">Vân Phú ward</s>
+<s id="d2p1s138">Vân Luông Hamlet (Residential quarter 7)</s>
+<s id="d2p1s139">Lũng Village</s>
+<s id="d2p1s140">Hy Cương Commune</s>
+<s id="d2p1s141">Cổ Tích Village</s>
+<s id="d2p1s142">Thuần Lương Hamlet</s>
+<s id="d2p1s143">Sông Lô Commune</s>
+<s id="d2p1s144">Vân Khê Hamlet – Thia communal house(Residential quarter 3)</s>
+<s id="d2p1s145">Hà Lộc</s>
+<s id="d2p1s146">PHÚ THỌ town</s>
+<s id="d2p1s147">Hạ Hamlet</s>
+<s id="d2p1s148">Thanh Minh</s>
+<s id="d2p1s149">Mạo Village (Residential quarter 2)</s>
+<s id="d2p1s150">Thanh Lâu Hamlet (Residential quarter 8)</s>
+<s id="d2p1s151">Trẹo Village (Residential quarter 7)</s>
+<s id="d2p1s152">Hùng Sơn township</s>
+<s id="d2p1s153">LÂM THAO</s>
+<s id="d2p1s154">Hậu Lộc Village (Residential quarter 2)</s>
+<s id="d2p1s155">Phường Village (Residential quarter 16)</s>
+<s id="d2p1s156">Vi Cương Hamlet (Residential quarter 3)</s>
+<s id="d2p1s157">Huy Sơn Village (Residential quarter 14)</s>
+<s id="d2p1s158">Vi Village (Đông communal house)–Residential quarter 3</s>
+<s id="d2p1s159">Mở Village - Residential quarter 12 (Tập Lục communal house)</s>
+<s id="d2p1s160">Tiên Kiên</s>
+<s id="d2p1s161">Lum Village (Residential quarter 7 )</s>
+<s id="d2p1s162">Cả communal house (Residential quarter 3)</s>
+<s id="d2p1s163">Đoàn Kết Village – Giã Village (Residentialquarter 4)</s>
+<s id="d2p1s164">Mua Village - Quan Mạc pagoda(Residential quarter 5)</s>
+<s id="d2p1s165">Khuân Dậu</s>
+<s id="d2p1s166">Trung Giáp</s>
+<s id="d2p1s167">PHÙ NINH</s>
+<s id="d2p1s168">Đình Village Phú Nham</s>
+<s id="d2p1s169">Nội Hamlet (Residential quarter 8)</s>
+<s id="d2p1s170">Hạ Giáp</s>
+<s id="d2p1s171">Thanh Thúy</s>
+<s id="d2p1s172">Bảo Thanh</s>
+<s id="d2p1s173">Vải Đạng Hamlet (Residential quarter 2)</s>
+<s id="d2p1s174">Xuân Viên</s>
+<s id="d2p1s175">YÊN LẬP</s>
+<s id="d2p1s176">Giai Thượng</s>
+<s id="d2p1s177">Thắng Sơn</s>
+<s id="d2p1s178">THANH SƠN</s>
+<s id="d2p1s179">Chòi  Village (Residential quarter 13)</s>
+<s id="d2p1s180">Cự Thắng</s>
+<s id="d2p1s181">Dẹ Hamlet (Residential quarter 2)</s>
+<s id="d2p1s182">Văn Miếu</s>
+<s id="d2p1s183">Ba Mỏ Township</s>
+<s id="d2p1s184">Thanh Sơn Township</s>
+<s id="d2p1s185">Chùa Village (Residential quarter 2)</s>
+<s id="d2p1s186">Xuân Quang</s>
+<s id="d2p1s187">TAM NÔNG</s>
+<s id="d2p1s188">Bình Lỗ Hamlet (Residential quarter 9)</s>
+<s id="d2p1s189">Thanh Uyên Hamlet (Residential quarter 3)</s>
+<s id="d2p1s190">Thanh Uyên</s>
+<s id="d2p1s191">Sơn Cương Hamlet (Residential quarter 1)</s>
+<s id="d2p1s192">Hồng Đà</s>
+<s id="d2p1s193">Hạ Nông Hamlet (Residential quarter 6)</s>
+<s id="d2p1s194">Gò Dược Village (Residential quarter 2)</s>
+<s id="d2p1s195">Dị Nậu</s>
+<s id="d2p1s196">Gia Khảm Village (Residential quarter 6)</s>
+<s id="d2p1s197">Hoàng Hanh Village (Residential quarter 7)</s>
+<s id="d2p1s198">Total</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.1>

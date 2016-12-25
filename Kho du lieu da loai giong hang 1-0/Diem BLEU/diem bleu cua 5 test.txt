@@ -1,0 +1,34 @@
+So sánh kết quả Test trên Hệ thống 2 so với Hệ thống 1
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul1/test1en.txt <~/Test/Modul1/test1vn.out.txt
+BLEU = 4.16, 27.6/8.5/3.6/2.0 (BP=0.652, ratio=0.701, hyp_len=21472, ref_len=30651)
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul1/test1en.txt <~/Test/Modul1/test1vn.outbt.txt
+BLEU = 1.05, 19.5/3.1/0.6/0.1 (BP=0.682, ratio=0.723, hyp_len=22162, ref_len=30651)
+Cải thiện: 3.11 điểm BLEU
+
+So sánh kết quả Test trên Hệ thống 3 so với Hệ thống 1
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul2/test2en.txt <~/Test/Modul2/test2vn.out.txt
+BLEU = 10.23, 35.3/12.9/6.4/3.7 (BP=1.000, ratio=1.079, hyp_len=24539, ref_len=22741)
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul2/test2en.txt <~/Test/Modul2/test2vn.outbt.txt
+BLEU = 3.70, 26.0/5.8/1.8/0.7 (BP=1.000, ratio=1.156, hyp_len=26278, ref_len=22741)
+Cải thiện: 6.53 điểm BLEU
+
+So sánh kết quả Test trên Hệ thống 4 so với Hệ thống 1
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul3/test3en.txt <~/Test/Modul3/test3vn.out.txt
+BLEU = 12.88, 37.4/16.2/8.7/5.2 (BP=1.000, ratio=1.097, hyp_len=20944, ref_len=19086)
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul3/test3en.txt <~/Test/Modul3/test3vn.outbt.txt
+BLEU = 5.06, 27.2/7.6/2.8/1.2 (BP=1.000, ratio=1.151, hyp_len=21975, ref_len=19086)
+Cải thiện: 7.82 điểm BLEU
+
+So sánh kết quả Test trên Hệ thống 5 so với Hệ thống 1
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul4/test4en.txt <~/Test/Modul4/test4vn.out.txt
+BLEU = 4.40, 23.3/7.2/2.4/0.9 (BP=1.000, ratio=1.275, hyp_len=11919, ref_len=9345)
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul4/test4en.txt <~/Test/Modul4/test4vn.outbt.txt
+BLEU = 3.12, 20.2/5.4/1.7/0.5 (BP=1.000, ratio=1.318, hyp_len=12315, ref_len=9345)
+Cải thiện: 1.28 điểm BLEU
+
+So sánh kết quả Test trên Hệ thống 6 so với Hệ thống 1
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul5/test5en.txt <~/Test/Modul5/test5vn.out.txt
+BLEU = 14.29, 34.8/16.2/10.2/7.2 (BP=1.000, ratio=1.091, hyp_len=19039, ref_len=17443)
+tienha@tienha-Ubuntu:~$ ~/mosesdecoder/scripts/generic/multi-bleu.perl ~/Test/Modul5/test5en.txt <~/Test/Modul5/test5vn.outbt.txt
+BLEU = 2.83, 24.4/5.4/1.2/0.4 (BP=1.000, ratio=1.179, hyp_len=20569, ref_len=17443)
+Cải thiện: 11.46 điểm BLEU
